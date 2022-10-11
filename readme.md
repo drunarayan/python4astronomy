@@ -1,11 +1,11 @@
-## Workshop repository for the Python for Astronomy Course taught for BRIEF Boyce Astro Foundation
+### Welcome to the workshop repository for the Python for Astronomy Course taught for BRIEF Boyce Astro Foundation
 
 Item|Topic Description
 ---|---
 1|[Intro to Jupyter Markdown LaTeX Python Plotting](https://drunarayan.github.io/python4astronomy/intro_jupyter_python)
 
 
-## Here are possible Live Streams during Observing Nights via the Bush Telescope
+### Here are possible Live Streams during Observing Nights via the Bush Telescope
 
 Item|Live Stream links
 ---|---
