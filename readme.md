@@ -23,7 +23,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 [JupyterHub Login](https://bushastrolab.com/hub/login)
 
-We will be using the Brief Programs Slack channel #python-intro for any questions you may have. Please look for this channel in the {Brief Programs Slack](http://briefprograms.slack.com)
+We will be using the Brief Programs Slack channel #python-intro for any questions you may have. Please look for this channel in the [Brief Programs Slack](http://briefprograms.slack.com)
 
 Login to JupyterHub with your firstname you provided in your registration for this course
 
