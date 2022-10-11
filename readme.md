@@ -1,6 +1,6 @@
 ### Welcome to the workshop repository for the Python for Astronomy Course taught for BRIEF Boyce Astro Foundation
 
-Item|Topic Description
+Workshop|Topic Description
 ---|---
 1|[Intro to Jupyter Markdown LaTeX Python Plotting](https://drunarayan.github.io/python4astronomy/intro_jupyter_python)
 
