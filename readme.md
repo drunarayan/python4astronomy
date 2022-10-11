@@ -25,12 +25,13 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 We will be using the Brief Programs Slack channel #python-intro for any questions you may have. Please look for this channel in the [Brief Programs Slack](http://briefprograms.slack.com)
 
-Login to JupyterHub with your firstname you provided in your registration for this course
-
-
 Workshop|Topic Description
 ---|---
 1|[Intro to Jupyter Markdown LaTeX Python Plotting](https://drunarayan.github.io/python4astronomy/intro_jupyter_python)
-2|[More to come ...]()
+2|[Eratosthenes Measurement of the Diameter of the Earth](https://drunarayan.github.io/python4astronomy/dia_of_earth)
+3|[Ole Romer's Measurement of the Speed of Light](https://drunarayan.github.io/python4astronomy/speed_of_light)
+4|[Kepler's Laws and Elliptical Orbits](https://drunarayan.github.io/python4astronomy/keplerian_orbits)
+5|[Star Magnitudes and Logarithms](https://drunarayan.github.io/python4astronomy/star_magnitudes)
+6|[Hertzsprung Russell Diagrams of Star Clusters](https://drunarayan.github.io/python4astronomy/cluster_hrd)
 
 
