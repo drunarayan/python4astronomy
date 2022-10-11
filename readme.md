@@ -19,7 +19,7 @@ We expect to run for 5 or 6 sessions starting October 13th, 2022. Look for a Zoo
 
 [Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy)  (this site)
 
-You will be logging into JupyterHub for getting workshop materials and creating your own Juoyter Notebooks.  Your username is simply the word ***python*** followed by ***your first name*** you provided in your registration. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, please slack me, I will reset it.
+You will be logging into JupyterHub for getting workshop materials and creating your own Juoyter Notebooks.  Your username is simply the word ```python``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, please slack me, I will reset it.
 
 [JupyterHub Login](https://bushastrolab.com/hub/login)
 
