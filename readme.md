@@ -25,10 +25,10 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 We will be using the Brief Programs Slack channel #python-intro for any questions you may have. Please look for this channel in the [Brief Programs Slack](https://briefprograms.slack.com/archives/C037H58JUV6)
 
-## Python4Astronomy Workshop organization
-The structure of this Workshop includes specific Projects below.  These Projects provide access to multiple materials, including Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of files linked below.  When you click on a link below, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, JupyterLab (the IDE inside JupyterHub) will keep track of the modifications and you should never lose your edits.  It is highly recommended that you do not change the names of the notebooks or files and they are being tracked and version controlled. You can always return to this page to access any specific project below which will mantain your latest edits.  This is a very common and state-of-the-art mechanism that universities use to manage multiple user accounts for various courses you might take.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
+## Workshop organization
+The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, including Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of files linked below.  When you click on a link below, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
 
-## Python4Astronomy Projects & Materials Access *Under Construction*
+## Projects & Materials Access *Under Construction*
 Project|Topic Description
 ---|---
 1|[Intro to Jupyter Markdown LaTeX Python Plotting](https://drunarayan.github.io/python4astronomy/intro_jupyter_python)
@@ -38,7 +38,7 @@ Project|Topic Description
 5|[Hertzsprung Russell Diagrams of Star Clusters](https://drunarayan.github.io/python4astronomy/cluster_hrd)
 6|[Catch-up]()
 
-## Python4Astronomy Workshop Zoom Meeting and Recording Links *Under Construction*
+## Workshop Zoom Meeting and Recording Links *Under Construction*
 Item|Date|Zoom Meeting Link|Zoom Recording Link
 ---|---|---|---
 1|Thu, Oct 20th, 2022|Zoom Meeting Link|Zoom Recording Link
