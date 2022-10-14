@@ -30,6 +30,7 @@ The structure of this Workshop includes specific ***Projects*** below.  These Pr
 
 ## Projects & Materials Access 
 *Under Construction*
+
 Project|Topic Description
 ---|---
 1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Intro to Jupyter Markdown LaTeX Python Plotting</a>
@@ -41,6 +42,7 @@ Project|Topic Description
 
 ## Workshop Zoom Meeting and Recording Links 
 *Under Construction*
+
 Item|Date|Zoom Meeting Link|Zoom Recording Link
 ---|---|---|---
 1|Thu, Oct 20th, 2022|Zoom Meeting Link|Zoom Recording Link
