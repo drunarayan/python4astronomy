@@ -37,7 +37,7 @@ Project|Topic Description
 3|[Kepler's Laws and Elliptical Orbits](https://drunarayan.github.io/python4astronomy/keplerian_orbits)
 4|[Star Magnitudes and Logarithms](https://drunarayan.github.io/python4astronomy/star_magnitudes)
 5|[Hertzsprung Russell Diagrams of Star Clusters](https://drunarayan.github.io/python4astronomy/cluster_hrd)
-6|[Catch-up]()
+6|Catch-up
 
 ## Workshop Zoom Meeting and Recording Links 
 *Under Construction*
