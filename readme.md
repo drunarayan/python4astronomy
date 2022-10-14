@@ -28,22 +28,22 @@ We will be using the Brief Programs Slack channel #python-intro for any question
 ## Python4Astronomy Workshop organization
 The structure of this Workshop includes specific Projects below.  These Projects provide access to multiple materials, including Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of files linked below.  When you click on a link below, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, JupyterLab (the IDE inside JupyterHub) will keep track of the modifications and you should never lose your edits.  It is highly recommended that you do not change the names of the notebooks or files and they are being tracked and version controlled. You can always return to this page to access any specific project below which will mantain your latest edits.  This is a very common and state-of-the-art mechanism that universities use to manage multiple user accounts for various courses you might take.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
 
-## Python4Astronomy Projects & Materials Access
+## Python4Astronomy Projects & Materials Access *Under Construction*
 Project|Topic Description
 ---|---
 1|[Intro to Jupyter Markdown LaTeX Python Plotting](https://drunarayan.github.io/python4astronomy/intro_jupyter_python)
 2|[Eratosthenes Measurement of the Diameter of the Earth](https://drunarayan.github.io/python4astronomy/dia_of_earth)
-3|[Ole Romer's Measurement of the Speed of Light](https://drunarayan.github.io/python4astronomy/speed_of_light)
-4|[Kepler's Laws and Elliptical Orbits](https://drunarayan.github.io/python4astronomy/keplerian_orbits)
-5|[Star Magnitudes and Logarithms](https://drunarayan.github.io/python4astronomy/star_magnitudes)
-6|[Hertzsprung Russell Diagrams of Star Clusters](https://drunarayan.github.io/python4astronomy/cluster_hrd)
+3|[Kepler's Laws and Elliptical Orbits](https://drunarayan.github.io/python4astronomy/keplerian_orbits)
+4|[Star Magnitudes and Logarithms](https://drunarayan.github.io/python4astronomy/star_magnitudes)
+5|[Hertzsprung Russell Diagrams of Star Clusters](https://drunarayan.github.io/python4astronomy/cluster_hrd)
+6|[Catch-up]()
 
-## Python4Astronomy Workshop Zoom Meeting and Recording Links (IN-WORK)
-Item|Date|Topic Description
+## Python4Astronomy Workshop Zoom Meeting and Recording Links *Under Construction*
+Item|Date|Zoom Meeting Link|Zoom Recording Link
 ---|---|---
-1|Thu, Oct 20th, 2022|[Intro to Jupyter Markdown LaTeX Python Plotting](https://drunarayan.github.io/python4astronomy/intro_jupyter_python)
-2|Thu, Oct 27th, 2022|[Eratosthenes Measurement of the Diameter of the Earth](https://drunarayan.github.io/python4astronomy/dia_of_earth)
-3|Thu, Nov 3rd, 2022|[Kepler's Laws and Elliptical Orbits](https://drunarayan.github.io/python4astronomy/keplerian_orbits)
-4|Thu, Nov 10th, 2022|[Star Magnitudes and Logarithms](https://drunarayan.github.io/python4astronomy/star_magnitudes)
-5|Thu, Nov 17th, 2022|[Hertzsprung Russell Diagrams of Star Clusters](https://drunarayan.github.io/python4astronomy/cluster_hrd)
-6|Thu, Nov 24th, 2022|[Catch-up]()
+1|Thu, Oct 20th, 2022|Zoom Meeting Link|Zoom Recording Link
+2|Thu, Oct 27th, 2022|Zoom Meeting Link|Zoom Recording Link
+3|Thu, Nov 3rd, 2022||Zoom Meeting Link|Zoom Recording Link
+4|Thu, Nov 10th, 2022|Zoom Meeting Link|Zoom Recording Link
+5|Thu, Nov 17th, 2022|Zoom Meeting Link|Zoom Recording Link
+6|Thu, Nov 24th, 2022|Zoom Meeting Link|Zoom Recording Link
