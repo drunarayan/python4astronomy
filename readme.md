@@ -32,11 +32,11 @@ The structure of this Workshop includes specific ***Projects*** below.  These Pr
 *Under Construction*
 Project|Topic Description
 ---|---
-1|[Intro to Jupyter Markdown LaTeX Python Plotting](https://drunarayan.github.io/python4astronomy/intro_jupyter_python)
-2|[Eratosthenes Measurement of the Diameter of the Earth](https://drunarayan.github.io/python4astronomy/dia_of_earth)
-3|[Kepler's Laws and Elliptical Orbits](https://drunarayan.github.io/python4astronomy/keplerian_orbits)
-4|[Star Magnitudes and Logarithms](https://drunarayan.github.io/python4astronomy/star_magnitudes)
-5|[Hertzsprung Russell Diagrams of Star Clusters](https://drunarayan.github.io/python4astronomy/cluster_hrd)
+1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Intro to Jupyter Markdown LaTeX Python Plotting</a>
+2|<a href="https://drunarayan.github.io/python4astronomy/dia_of_earth" target="_blank">Eratosthenes Measurement of the Diameter of the Earth</a>
+3|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Kepler's Laws and Elliptical Orbits</a>
+4|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms</a>
+5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters</a>
 6|Catch-up
 
 ## Workshop Zoom Meeting and Recording Links 
