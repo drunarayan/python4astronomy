@@ -2,6 +2,7 @@
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 ## Welcome to Python for Astronomy Workshop! 
+### *Workshop commences Thursday, October 20th. See below for details*
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. 
 
 Skills we will teach include:
