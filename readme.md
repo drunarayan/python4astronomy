@@ -46,9 +46,9 @@ Project|Topic Description
 
 Item|Date|Zoom Meeting Link|Zoom Recording Link
 ---|---|---|---
-1|Thu, Oct 20th, 2022|Zoom Meeting Link|Zoom Recording Link
-2|Thu, Oct 27th, 2022|Zoom Meeting Link|Zoom Recording Link
-3|Thu, Nov 3rd, 2022|Zoom Meeting Link|Zoom Recording Link
-4|Thu, Nov 10th, 2022|Zoom Meeting Link|Zoom Recording Link
-5|Thu, Nov 17th, 2022|Zoom Meeting Link|Zoom Recording Link
-6|Thu, Nov 24th, 2022|Zoom Meeting Link|Zoom Recording Link
+1|Thu, Oct 20th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
+2|Thu, Oct 27th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
+3|Thu, Nov 3rd, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
+4|Thu, Nov 10th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
+5|Thu, Nov 17th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
+6|Thu, Nov 24th, 2022|Zoom Meeting Link TBD|Zoom Recording Link  TBD
