@@ -44,11 +44,11 @@ Project|Topic Description
 ## Workshop Zoom Meeting and Recording Links 
 *Under Construction*
 
-Item|Date|Zoom Meeting Link|Zoom Recording Link
+Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Oct 20th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
-2|Thu, Oct 27th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
-3|Thu, Nov 3rd, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
-4|Thu, Nov 10th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
-5|Thu, Nov 17th, 2022|Zoom Meeting Link TBD|Zoom Recording Link TBD
-6|Thu, Nov 24th, 2022|Zoom Meeting Link TBD|Zoom Recording Link  TBD
+1|Thu, Oct 20th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+2|Thu, Oct 27th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+3|Thu, Nov 3rd, 2022| [Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+4|Thu, Nov 10th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+5|Thu, Nov 17th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+6|Thu, Nov 24th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
