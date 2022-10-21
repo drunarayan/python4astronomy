@@ -15,12 +15,12 @@ Skills we will teach include:
 1. Pandas & Numpy (dataframes and math libraries for Python)
 1. SQL (structured query language for querying astro databases)
 
-We expect to run for 5 sessions with an optional 6th session starting October 20th, 2022. Look for a Zoom meeting schedule links to be available at this page ahead of the workshop start date on Oct 20th. Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
+We expect to run for 5 sessions starting every Thursday October 20th, 2022 with an optional 6th session on November 24th. Look for a Zoom meeting schedule links to be available at this page ahead of the workshop start date on Oct 20th. Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
 [Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy)  (this site)
 
 ## Your JupyterHub Account
-You will be logging into JupyterHub for getting workshop materials and creating your own Juoyter Notebooks.  Your username is simply the word ```python``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, [please slack](https://briefprograms.slack.com/archives/C037H58JUV6) or email me at pythonintro@gmail.com, I will reset it.
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```python``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, [please slack](https://briefprograms.slack.com/archives/C037H58JUV6) or email me at pythonintro@gmail.com, I will reset it.
 
 [JupyterHub Login](https://bushastrolab.com/hub/login)
 
