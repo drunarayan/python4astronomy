@@ -46,9 +46,9 @@ Project|Topic Description
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Oct 20th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
-2|Thu, Oct 27th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
-3|Thu, Nov 3rd, 2022| [Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
-4|Thu, Nov 10th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
-5|Thu, Nov 17th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
-6|Thu, Nov 24th, 2022|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+1|Thu, Oct 20th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+2|Thu, Oct 27th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+3|Thu, Nov 3rd, 2022  8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+4|Thu, Nov 10th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+5|Thu, Nov 17th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+6|Thu, Nov 24th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
