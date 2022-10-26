@@ -3,7 +3,7 @@
 
 ## Welcome to Python for Astronomy Workshop! 
 ### *Workshop commences 8:00 PM Thursday, October 20th. See below for details*
-Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. 
+Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more abou this course.
 
 Skills we will teach include:
 1. Jupyter Notebooks (the backbone of Google colab)
@@ -19,10 +19,20 @@ We expect to run for 5 sessions starting every Thursday October 20th, 2022 with 
 
 [Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy)  (this site)
 
-## Your JupyterHub Account
+## What is Jupyter?
+
+If you are not familiar with [Project Jupyter](http://jupyter.org/), [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) [JupyterLab](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) or [JupyterHub](http://jupyter.org/hub), I highly recommend learning about them by following the embedded links.  
+
+All of the content provided here are accessible to you using a combination of technologies provided by [Jupyter](http://jupyter.org/) and [Github](https://github.com/) where 83+ million researchers around the world come together to publish the share their work.  
+
+### Your virtual laptop in the cloud!
+
+You will be accessing your own virtual 'laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
+
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```python``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, [please slack](https://briefprograms.slack.com/archives/C037H58JUV6) or email me at pythonintro@gmail.com, I will reset it.
 
-[JupyterHub Login](https://bushastrolab.com/hub/login)
+### Your JupyterHub Account - your laptop in the sky
+### > [JupyterHub Login Here](https://bushastrolab.com/hub/login)
 
 We will be using the Brief Programs Slack channel #python-intro for any questions you may have. Please look for this channel in the [Brief Programs Slack](https://briefprograms.slack.com/archives/C037H58JUV6)
 
@@ -30,7 +40,7 @@ We will be using the Brief Programs Slack channel #python-intro for any question
 The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, including Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of files linked below.  When you click on a link below, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
 
 ## Projects & Materials Access 
-*Under Construction*
+* *Some Materials Under Construction*
 
 Project|Topic Description
 ---|---
@@ -46,7 +56,7 @@ Project|Topic Description
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Oct 20th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
+1|Thu, Oct 20th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://youtu.be/FxHg9193Ivg)
 2|Thu, Oct 27th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
 3|Thu, Nov 3rd, 2022  8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
 4|Thu, Nov 10th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording Link TBA
