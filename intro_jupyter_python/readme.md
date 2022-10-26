@@ -11,9 +11,9 @@ In this project you will get an overview of Jupyter Notebooks, including
 
 You will be asked to login. If you do not have a login, please email the teacher.
 
-You will be completing these notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://github.com/drunarayan/python4astronomy)
+You will be completing these notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/python4astronomy/)
 
-Project|Topic Description
+Project | Topic Description
 ---|---
 1|<a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F1_intro_to_jupyter.ipynb?reset" target="_blank">Overview of Jupyter Notebooks & Markdown Syntax</a>
 2|<a href="https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F2_singing_black_hole.ipynb?reset" target="_blank">Practice your Jupyter Skills with the Singing Black Hole!</a>
