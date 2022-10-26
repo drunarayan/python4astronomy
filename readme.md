@@ -25,30 +25,26 @@ If you are not familiar with [Project Jupyter](http://jupyter.org/), [Jupyter No
 
 All of the content provided here are accessible to you using a combination of technologies provided by [Jupyter](http://jupyter.org/) and [Github](https://github.com/) where 83+ million researchers around the world come together to publish the share their work.  
 
-### Your virtual laptop in the cloud!
-
-You will be accessing your own virtual 'laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
+You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```python``` followed by ```<your first name>``` you provided in your registration. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, [please slack](https://briefprograms.slack.com/archives/C037H58JUV6) or email me at pythonintro@gmail.com, I will reset it.
 
-### Your JupyterHub Account - your laptop in the sky
-### > [JupyterHub Login Here](https://bushastrolab.com/hub/login)
+## Workshop organization & JupyterHub - your own virtual laptop in the sky!
 
-We will be using the Brief Programs Slack channel #python-intro for any questions you may have. Please look for this channel in the [Brief Programs Slack](https://briefprograms.slack.com/archives/C037H58JUV6)
+The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, including **your own virtual laptop**, Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of content linked below.  When you click on the very first project link below to get started!
 
-## Workshop organization
-The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, including Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of files linked below.  When you click on a link below, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
+When you do so, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
 
 ## Projects & Materials Access 
 * *Some Materials Under Construction*
 
 Project|Topic Description
 ---|---
-1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Intro to Jupyter Markdown LaTeX Python Plotting</a>
-2|<a href="https://drunarayan.github.io/python4astronomy/dia_of_earth" target="_blank">Eratosthenes Measurement of the Diameter of the Earth</a>
-3|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Kepler's Laws and Elliptical Orbits</a>
-4|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms</a>
-5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters</a>
+1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Create your virtual laptop & Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
+2|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
+3|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
+4|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
+5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
 6|Catch-up
 
 ## Workshop Zoom Meeting and Recording Links 
