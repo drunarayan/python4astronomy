@@ -8,5 +8,4 @@ You will be asked to login. If you do not have a login, please email the teacher
 
 You will be completing these notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/python4astronomy/)
 
-Project | Topic Description
----|---
+
