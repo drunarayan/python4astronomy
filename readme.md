@@ -40,7 +40,8 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 Project|Topic Description
 ---|---
-1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Create your virtual laptop & Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
+0|<a href="https://drunarayan.github.io/python4astronomy/jupyter_beginner" target="_blank">Create your virtual laptop & Learn the basics of Jupyter Notebooks</a>
+1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
 2|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
 3|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
 4|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
