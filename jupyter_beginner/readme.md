@@ -11,7 +11,7 @@ In this project you will get beginner's introduction to using JupyterLab and Jup
 **Jupyter Notebooks** are a community standard for communicating and performing interactive computing. They are a document that blends computations, outputs, explanatory text, mathematics, images, and rich media representations of objects.
 
 
-1. [**First Login to JupyterHub by right-click and opening in New Window this link**]()
+1. [**First Login to JupyterHub by right-click and opening in New Window this link**](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fjupyter_beginner?reset)
 1. **Get a tour of the JupyterLab interface**, see the **JupyterLab Welcome Tour** on this page, by going to `Help -> Welcome Tour` and select "Welcome Tour".  **Please do not skip this step**
 1. **Get a tour of the Jupyter Notebook**, see the **JupyterLab Welcome Tour** on this page, by going to `Help -> Welcome Tour` and select "Notebook Tour".  **Please do not skip this step**
 2. 
