@@ -4,8 +4,8 @@ In this project you will get beginner's introduction to using JupyterLab and Jup
 
 Please complete the folowing steps in Sequence
 
-1. Navigation Tours for JupyterLab and Jupyter Notebook
-  * Please Click on the Help Menu "Help->Welcome Tour”. Complete the Tour.  
+1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username]()
+	* Please Click on the Help Menu "Help->Welcome Tour”. Complete the Tour.  
 	* Please Click on the Help Menu “Help->Notebook Tour”. Complete the Tour.  
 
 2. Double Click on the Jupyter Notebook ‘Intro.ipynb’ on the left panel. Execute each cell by pressing Shit-Enter on your keyboard
