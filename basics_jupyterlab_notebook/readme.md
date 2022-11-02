@@ -8,4 +8,4 @@ Please complete the folowing steps in Sequence
 
 2. Double Click on the Jupyter Notebook ‘Intro.ipynb’ on the left panel. Execute each cell by pressing Shift-Enter on your keyboard
 
-3. Do the same for the other two Jupyter Notebooks ‘Lorenz.ipynb’ and ‘sqlite.ipynb’ there.
+3. Do the same for the other Jupyter Notebook ‘Lorenz.ipynb’ there.
