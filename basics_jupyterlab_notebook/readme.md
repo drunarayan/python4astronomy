@@ -4,7 +4,7 @@ In this project you will get beginner's introduction to using JupyterLab and Jup
 
 Please complete the folowing steps in Sequence
 
-1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username]()
+1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook)
 	* Please Click on the Help Menu "Help->Welcome Tour”. Complete the Tour.  
 	* Please Click on the Help Menu “Help->Notebook Tour”. Complete the Tour.  
 
