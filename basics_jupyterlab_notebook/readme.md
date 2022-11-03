@@ -18,7 +18,7 @@ JupyterLab is one interface used to create and interact with Jupyter Notebooks. 
 
 Please complete the folowing steps in Sequence to open and modify your first Jupyter Notebooks
 
-1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook). This should open your own Jupyter Notebook 'Intro.ipynb' in the JupyterLab IDE.
+1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2FIntro.ipynb). This should open your own Jupyter Notebook 'Intro.ipynb' in the JupyterLab IDE.
 
 2. Double Click on the Jupyter Notebook ‘Intro.ipynb’ on the left panel. Execute each cell by pressing Shift-Enter on your keyboard
 
