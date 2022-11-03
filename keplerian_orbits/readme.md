@@ -12,5 +12,5 @@ Use the references below to author the two Jupyter Notebooks on Kepler's Laws an
 | Task | Status | Link
 | :--- | :--- | :--- |
 | 1 | REQUIRED | [Calculate the mass of the Central Star in the Kepler 11 System of Exoplanets!]()
-| 2 | OPTIONAL | [Review Understanding of Kepler's Laws]()
+| 2 | OPTIONAL | [Deeper Understanding of Kepler's Laws]()
 | 3 | OPTIONAL | [Plot the keplerian orbits of Solar System Objects]()
