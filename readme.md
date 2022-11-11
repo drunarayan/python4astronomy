@@ -47,7 +47,6 @@ Project|Topic Description
 4|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
 5|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
 
-6|Catch-up
 
 ## Workshop Zoom Meeting and Recording Links 
 *Under Construction*
