@@ -8,7 +8,7 @@ In this project you will get beginner's introduction to using JupyterLab and Jup
 
 ## JupyterLab 🧪
 
-**JupyterLab** is a next-generation web-based user interface for Project Jupyter. It enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner. It is the interface that you're looking at right now.  If you like a tour, you can click [Getting started with JupyterLab Interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).  You can also jump straight in below and learn by doing it!  If you are confused, come back to above link first.
+**JupyterLab** is a next-generation web-based user interface for Project Jupyter. It enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner. It is the interface that you're looking at right now.  If you like a tour, you can click [Getting started with JupyterLab Interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).  Instead, you can also jump straight in below and learn by doing it!  If you are confused, come back to the above link.
 
 ## Jupyter Notebooks 📓
 
