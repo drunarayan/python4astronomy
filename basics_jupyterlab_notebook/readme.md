@@ -22,4 +22,4 @@ Please complete the folowing steps in Sequence to open and modify your first Jup
 
 2. Read instructions and execute each cell by pressing Shift-Enter on your keyboard
 
-3. You click to double-click to open and do the same for the other Jupyter Notebooks 'Intro.ipynb' and ‘Lorenz.ipynb’ from the panel on your left to do more advanced examples.
+3. You can double-click to open and do the same for the other Jupyter Notebooks 'Intro.ipynb' and ‘Lorenz.ipynb’ from the panel on your left to do more advanced examples.
