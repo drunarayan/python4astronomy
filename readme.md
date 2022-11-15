@@ -40,7 +40,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 Project|Topic Description
 ---|---
-0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics</a>
+0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook/" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics</a>
 1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
 2|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
 3|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
