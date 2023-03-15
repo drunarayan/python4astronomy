@@ -1,4 +1,4 @@
-## Course repository for the ***Python for Astronomy 2022*** Workshop 
+## Course repository for the ***Python for Astronomy 2023*** Workshop 
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 ## Welcome to Python for Astronomy Workshop! 
