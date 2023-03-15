@@ -1,8 +1,10 @@
-## Course repository for the ***Python for Astronomy 2022*** Workshop 
+## Course repository for the ***Python for Astronomy 2023*** Workshop 
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
+![m99](m99.png)
+
 ## Welcome to Python for Astronomy Workshop! 
-### *Workshop commences 8:00 PM Thursday, October 20th. See below for details*
+### *Workshop commences 8:00 PM Thursday, March 16th, 2023. See below for details*
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more abou this course.
 
 Skills we will teach include:
@@ -49,12 +51,12 @@ Project|Topic Description
 
 
 ## Workshop Zoom Meeting and Recording Links 
-*Under Construction*
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Oct 20th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://youtu.be/FxHg9193Ivg)
-2|Thu, Oct 27th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1ZpHwEl93KWklTZryneKIwBnPzeEWR5hU/view?usp=sharing)
-3|Thu, Nov 3rd, 2022  8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1TlEQVv_UtdT9KIBWT6igQoOS3VgewidB/view?usp=sharing)
-4|Thu, Nov 10th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1vL8auWbT2WY8DLbGwj01MiWj0INZudWU/view?usp=sharing)
-5|Thu, Nov 17th, 2022 8:00 - 9:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1uhZ8UoG_4Nq-0U9vuM3lzxxQAcoNc8KA/view?usp=sharing)
+1|Thu, Mar 16th, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+2|Thu, Mar 23rd, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+X|Thu, Mar 30th, 2022|***NO CLASS!!!***|***NO CLASS!!!***
+3|Thu, Apr 6th, 2022  8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+4|Thu, Apr 13th, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+5|Thu, Apr 20th, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
