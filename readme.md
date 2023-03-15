@@ -5,7 +5,7 @@
 
 ## Welcome to Python for Astronomy Workshop! 
 ### *Workshop commences 8:00 PM Thursday, March 16th, 2023. See below for details*
-Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more abou this course.
+Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
 Skills we will teach include:
 1. Jupyter Notebooks (the backbone of Google colab)
@@ -17,7 +17,9 @@ Skills we will teach include:
 1. Pandas & Numpy (dataframes and math libraries for Python)
 1. SQL (structured query language for querying astro databases)
 
-We expect to run for 5 sessions starting every Thursday October 20th, 2022 with an optional 6th session on November 24th. Look for a Zoom meeting schedule links to be available at this page ahead of the workshop start date on Oct 20th. Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
+We expect to run for 5 sessions ***starting every Thursday March 16th, 2023*** with an optional 6th session possible on April 27th. Look for a Zoom meeting schedule links to be available at this page ahead of the workshop start date on Mar 16th, 2023. We will not have a session on March 30th, we will skip that Thursday. 
+
+Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
 [Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy)  (this site)
 
@@ -38,7 +40,7 @@ The structure of this Workshop includes specific ***Projects*** below.  These Pr
 When you do so, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
 
 ## Projects & Materials Access 
-* *Some Materials Under Construction*
+* ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs*** and see if you can complete this ahead of our first session!
 
 Project|Topic Description
 ---|---
@@ -54,9 +56,9 @@ Project|Topic Description
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Mar 16th, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
-2|Thu, Mar 23rd, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
-X|Thu, Mar 30th, 2022|***NO CLASS!!!***|***NO CLASS!!!***
-3|Thu, Apr 6th, 2022  8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
-4|Thu, Apr 13th, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
-5|Thu, Apr 20th, 2022 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+1|Thu, Mar 16th, 2023 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+2|Thu, Mar 23rd, 2023 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+X|Thu, Mar 30th, 2023|***NO CLASS!!!***|***NO CLASS!!!***
+3|Thu, Apr 6th, 2023  8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+4|Thu, Apr 13th, 2023 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+5|Thu, Apr 20th, 2023 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
