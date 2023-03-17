@@ -31,7 +31,7 @@ All of the content provided here are accessible to you using a combination of te
 
 You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
 
-You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```python``` followed by ```<your first name>``` you ```provided in your registration```. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, [please slack](https://briefprograms.slack.com/archives/C037H58JUV6) or email me at pythonintro@gmail.com, I will reset it.
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```python``` followed by ```<your first name>``` you ```provided in your registration```. For instance, my username would be ```pythonchandru```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at brief.pythonintro@gmail.com, I will reset it.
 
 ## Workshop organization & JupyterHub - your own virtual laptop in the sky!
 
