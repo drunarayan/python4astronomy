@@ -56,7 +56,7 @@ Project|Topic Description
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Mar 16th, 2023 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
+1|Thu, Mar 16th, 2023 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1XrUwZdz1k4zZN6C-1xyBfdXhRlEtjX2R/view?usp=share_link)
 2|Thu, Mar 23rd, 2023 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
 X|Thu, Mar 30th, 2023|***NO CLASS!!!***|***NO CLASS!!!***
 3|Thu, Apr 6th, 2023  8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](TBA)
