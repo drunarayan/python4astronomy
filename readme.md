@@ -44,6 +44,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 Project|Topic Description
 ---|---
+0|<a href=a href="https://drunarayan.github.io/python4astronomy/p4a_session_outline.pdf" target="_blank">Download session outline here</a>
 0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics</a>
 1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
 2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
