@@ -1,4 +1,4 @@
-## The Cosmic Perpective
+## The Cosmic Perspective
 ### a session for the Benghazi team May 29th, 2023
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
