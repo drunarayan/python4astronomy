@@ -16,7 +16,7 @@ Things to ponder ([and some maths!](https://openstax.org/books/astronomy/pages/1
 1. [How far away and how big](howbig.png) is the Pinwheel Galaxy
 1. [What kind of supernova](https://en.wikipedia.org/wiki/SN_2023ixf) is this?
 1. What happened to the host star?
-1. [Full Color Image]((https://observe.lco.global/requests/3233316)) and [annotated FITS image](2023-05-29T15.21.56_m.png) of scheduled observation from last week
+1. [Full Color Image](https://observe.lco.global/requests/3233316) and [annotated FITS image](2023-05-29T15.21.56_m.png) of scheduled observation from last week
 1. How bright is this supernova? 
     * [Let's calculate](https://www.phys.ksu.edu/personal/wysin/astro/magnitudes.html)!
 1. The cosmic connection
