@@ -12,11 +12,12 @@ The iron in our blood came from a supernova just like this several billion years
 
 Things to ponder (and some mathemeatics!):
 
-1. Where is this supernova in the sky?
-1. How far away and how big is the Pinwheel Galaxy
-1. What kind of supernova is this?
+1. [Where is this supernova](m101_sky.png) in the sky?
+1. [How far away and how big](howbig.png) is the Pinwheel Galaxy
+1. [What kind of supernova](https://en.wikipedia.org/wiki/SN_2023ixf) is this?
 1. What happened to the host star?
 1. How bright is this supernova? 
+    * Let's calculate!
 1. The cosmic connection
     * Life in the Universe
     * Neutrinos and Light
