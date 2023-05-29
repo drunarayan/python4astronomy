@@ -4,7 +4,10 @@
 ![m99](m99.png)
 
 ## Welcome to Python for Astronomy Workshop! 
-### *Workshop commences 8:00 PM Thursday, March 16th, 2023. See below for details*
+### [The Cosmic Perspective](cosmic_perspective) - For the Benghazi Team May 29, 2023
+
+#### ***Workshop commences 8:00 PM Thursday, March 16th, 2023. See below for details***
+
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
 Skills we will teach include:
