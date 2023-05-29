@@ -16,8 +16,9 @@ Things to ponder (and some mathemeatics!):
 1. [How far away and how big](howbig.png) is the Pinwheel Galaxy
 1. [What kind of supernova](https://en.wikipedia.org/wiki/SN_2023ixf) is this?
 1. What happened to the host star?
+1. [Color Image of scheduled observation from last week](https://observe.lco.global/requests/3233316)
 1. How bright is this supernova? 
-    * Let's calculate!
+    * [Let's calculate](https://www.phys.ksu.edu/personal/wysin/astro/magnitudes.html)!
 1. The cosmic connection
     * Life in the Universe
     * Neutrinos and Light
