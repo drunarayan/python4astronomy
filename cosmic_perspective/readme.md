@@ -2,7 +2,7 @@
 ### a session for the Benghazi team May 29th, 2023
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
-![m101](m101.png)
+![m101](M101_SN023IXF.png)
 
 The Pinwheel Galaxy M101 along with the [supernova sn2023ixf](https://en.wikipedia.org/wiki/SN_2023ixf) 
 
