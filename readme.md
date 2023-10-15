@@ -4,7 +4,7 @@
 ![m99](m99.png)
 
 ## Welcome to Python for Astronomy Workshop! 
-### [The Cosmic Perspective](cosmic_perspective) - May 29, 2023
+### [The Cosmic Perspective](cosmic_perspective)
 
 #### ***Workshop commences 7:00 PM Pacific Time Thursday, October 19th, 2023. See below for details***
 
