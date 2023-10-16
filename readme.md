@@ -34,6 +34,8 @@ All of the content provided here are accessible to you using a combination of te
 
 You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
 
+## Create your JupyterLab Login for use later!
+
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply the word ```python.``` followed by ```<your first name>.``` followed by ```<your last name>``` you ```provided in your registration```. For instance, my username would be ```python.chandru.narayan```  . The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at brief.pythonintro@gmail.com, I will reset it.
 
 ## Workshop organization & JupyterHub - your own virtual laptop in the sky!
@@ -42,14 +44,16 @@ The structure of this Workshop includes specific ***Projects*** below.  These Pr
 
 When you do so, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
 
-## Projects & Materials Access 
-* [Download Seminar Outline here as a PDF file](https://drunarayan.github.io/python4astronomy/p4a_session_outline.pdf) 
-* ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs*** and see if you can complete this ahead of our first session!
+## Projects & Materials Access
+#### Please complete these steps including ``Project 0`` ahead of the first session
+* [Download Seminar Outline here as a PDF file](https://drunarayan.github.io/python4astronomy/p4a_session_outline.pdf)
+* You would have separately received an invitation to Slack channel #python-intro - please accept it and see the Jupyter username created for you
+* Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
 
 
 Project|Topic Description
 ---|---
-0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics</a>
+0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE</a>
 1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
 2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
 3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
