@@ -47,7 +47,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
 * [Download Seminar Outline here as a PDF file](https://drunarayan.github.io/python4astronomy/p4a_session_outline.pdf)
-* You would have separately received an invitation to Slack channel #python-intro - please accept it and see the Jupyter username created for you
+* You would have separately received an invitation to Slack channel #python-intro - please accept it and see the Jupyter username created for you. This will be the primary mode of communication outside of the classrom!
 * Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
 
 
