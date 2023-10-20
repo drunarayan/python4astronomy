@@ -11,7 +11,7 @@
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
 Skills we will teach include:
-1. Jupyter Notebooks (the backbone of Google colab)
+1. Jupyter Notebooks (the backbone of JupyterLab & Google colab)
 1. JupyterHub & JupyterLab (dev environment for Jupyter Notebooks adopted widely by universities)
 1. Markdown Syntax (dynamic text, images, video and code embedded publishing)
 1. LaTeX (web and github enables equation editor for research)
