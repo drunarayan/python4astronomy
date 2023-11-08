@@ -15,3 +15,50 @@ You will be completing these notebooks below in sequence. You can return to this
 [Access Stellarium for Target Selection](https://stellarium-web.org/)
 
 
+### LCO Remote Telescopes Observation Results
+
+This email is to inform you that the observation request: kiosk-IC443 has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823239/
+
+This email is to inform you that the observation request: kiosk-M1 has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1820977/
+
+This email is to inform you that the observation request: kiosk-M36 has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823234/
+
+This email is to inform you that the observation request: kiosk-NGC7000 has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823235/
+
+This email is to inform you that the observation request: kiosk-saturn has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823240/
+
+This email is to inform you that the observation request: kiosk-m31 has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823238/
+
+
+This email is to inform you that the observation request: kiosk-m45 has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823233/
+
+This email is to inform you that the observation request: kiosk-jupiter has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823241/
+
+This email is to inform you that the observation request: kiosk-M42 has completed.
+
+Data may be downloaded here:
+https://observe.lco.global/requestgroups/1823236/
