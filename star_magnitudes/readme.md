@@ -54,5 +54,5 @@ This email is to inform you that the observation request: kiosk-jupiter has comp
 
 This email is to inform you that the observation request: kiosk-M42 has completed.
 
-[Jupiter Data may be downloaded here](https://observe.lco.global/requestgroups/1823236/)
+[M42 Data may be downloaded here](https://observe.lco.global/requestgroups/1823236/)
 
