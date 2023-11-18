@@ -60,6 +60,7 @@ Project|Topic Description
 3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
 4|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
 5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
+6|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - SHOW & TELL STUDENT WORK!</a>
 
 
 
@@ -72,5 +73,5 @@ Item|Date|Google Meet Link|Google Recording Link
 3|Thu, Nov 2nd, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1K1ChZz175mFyCErNz9en3OCmOrh9omLu/view?usp=share_link)
 4|Thu, Nov 9th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1wvxqhGPKs7XpAokggimnk8wklFDdUFNR/view?usp=share_link)
 5|Thu, Nov 16th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1_GgKPAvOryik3ezruo4KpKJynflS7m2K/view?usp=share_link)
-
+6|Thu, Dec 14th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 
