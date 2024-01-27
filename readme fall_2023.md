@@ -6,7 +6,7 @@
 ## Welcome to Python for Astronomy Workshop! 
 ### [The Cosmic Perspective](cosmic_perspective)
 
-#### ***Workshop commences 8:00 PM Pacific Time Thursday, February 22nd, 2024. See below for details***
+#### ***Workshop commences 7:00 PM Pacific Time Thursday, October 19th, 2023. See below for details***
 
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
@@ -20,7 +20,7 @@ Skills we will teach include:
 1. Pandas & Numpy (dataframes and math libraries for Python)
 1. SQL (structured query language for querying astro databases)
 
-We expect to run for 5 sessions ***every Thursday starting Feb 22nd, 2024***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
+We expect to run for 5 sessions ***every Thursday starting October 19th, 2023***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
@@ -68,10 +68,10 @@ Project|Topic Description
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Feb 22nd, 2024 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
-2|Thu, Feb 29th, 2024 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
-3|Thu, Mar 7th, 2024 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
-4|Thu, Mar 9th, 2024 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
-5|Thu, Mar 14th, 2024 8:00 - 9:00 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
-6|TBD|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+1|Thu, Oct 19th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1xa1J1rAGUphRF-QptSxOGs8j2dMr4rdK/view?pli=1)
+2|Thu, Oct 26th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1PIx12WNe4ok2rbFywYUJWGU8hhfz-Mwy/view?usp=share_link)
+3|Thu, Nov 2nd, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1K1ChZz175mFyCErNz9en3OCmOrh9omLu/view?usp=share_link)
+4|Thu, Nov 9th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1wvxqhGPKs7XpAokggimnk8wklFDdUFNR/view?usp=share_link)
+5|Thu, Nov 16th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1_GgKPAvOryik3ezruo4KpKJynflS7m2K/view?usp=share_link)
+6|Thu, Dec 14th, 2023 7:00 - 8:30 PM|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 
