@@ -17,42 +17,4 @@ You will be completing these notebooks below in sequence. You can return to this
 
 ### LCO Remote Telescopes Observation Results
 
-This email is to inform you that the observation request: kiosk-IC443 has completed.
-
-[IC443 Data may be downloaded here](https://observe.lco.global/requestgroups/1823239/)
-
-
-This email is to inform you that the observation request: kiosk-M36 has completed.
-
-[M36 Data may be downloaded here](https://observe.lco.global/requestgroups/1823234/)
-
-
-This email is to inform you that the observation request: kiosk-NGC7000 has completed.
-
-[NGC7000 Data may be downloaded here](https://observe.lco.global/requestgroups/1823235/)
-
-
-This email is to inform you that the observation request: kiosk-saturn has completed.
-
-[Saturn Data may be downloaded here](https://observe.lco.global/requestgroups/1823240/)
-
-
-This email is to inform you that the observation request: kiosk-m31 has completed.
-
-[M31 Data may be downloaded here](https://observe.lco.global/requestgroups/1823238/)
-
-
-This email is to inform you that the observation request: kiosk-m45 has completed.
-
-[M45 Data may be downloaded here](https://observe.lco.global/requestgroups/1823233/)
-
-
-This email is to inform you that the observation request: kiosk-jupiter has completed.
-
-[Jupiter Data may be downloaded here](https://observe.lco.global/requestgroups/1823241/)
-
-
-This email is to inform you that the observation request: kiosk-M42 has completed.
-
-[M42 Data may be downloaded here](https://observe.lco.global/requestgroups/1823236/)
-
+Once your scheduled observations are complete, they will show up below with links for downloading images.
