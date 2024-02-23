@@ -2,8 +2,8 @@
 
 In this project you will get an overview of Jupyter Notebooks, including 
 *  how to write dynamic Markdown syntax
-*  how to write embedded and execitable Python code
-*  how to author equations with LaTeX langiage
+*  how to write embedded and executable Python code
+*  how to author equations with LaTeX language
 *  how to create line and scatter plots using the Matplotlib and Numpy libraries for Python
 *  and much more ...
 
