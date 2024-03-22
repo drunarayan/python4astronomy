@@ -69,8 +69,8 @@ Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
 1|Thu, Feb 22nd, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1JjU4MeGGktFcJA6Bq9XXALRzYNhox_0E/view?usp=sharing)
 2|Thu, Feb 29th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/10RhJVBc7hXuNyQIvfsZyfbq-ZTTb_STU/view?usp=sharing)
-3|Thu, Mar 7th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
-4|Thu, Mar 14th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+3|Thu, Mar 7th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording FORGOT TO RECORD!!]()
+4|Thu, Mar 14th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1o_nurjStVV-rKGZlEusyTHqISbuCT9wY/view?usp=sharing)
 5|Thu, Mar 21st, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 6|TBD|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 
