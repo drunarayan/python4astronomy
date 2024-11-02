@@ -1,4 +1,4 @@
-## Course repository for the ***Python for Astronomy Spring 2024*** Workshop 
+## Course repository for the ***Python for Astronomy Fall 2024*** Workshop 
 ### taught for BRIEF Boyce Astro Foundation by Chandru Narayan
 
 ![m99](m99.png)
@@ -6,7 +6,7 @@
 ## Welcome to Python for Astronomy Workshop! 
 ### [The Cosmic Perspective](cosmic_perspective)
 
-#### ***Workshop commences 8:00 PM Pacific Time Thursday, February 22nd, 2024. See below for details***
+#### ***Workshop commences 8:00 PM Pacific Time Thursday, FNov 14th, 2024. See below for details***
 
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
@@ -20,7 +20,7 @@ Skills we will teach include:
 1. Pandas & Numpy (dataframes and math libraries for Python)
 1. SQL (structured query language for querying astro databases)
 
-We expect to run for 5 sessions ***every Thursday starting Feb 22nd, 2024***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
+We expect to run for 5 sessions ***every Thursday starting Nov 14th, 2024***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
@@ -67,10 +67,10 @@ Project|Topic Description
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Thu, Feb 22nd, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1JjU4MeGGktFcJA6Bq9XXALRzYNhox_0E/view?usp=sharing)
-2|Thu, Feb 29th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/10RhJVBc7hXuNyQIvfsZyfbq-ZTTb_STU/view?usp=sharing)
-3|Thu, Mar 7th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording FORGOT TO RECORD!!]()
-4|Thu, Mar 14th, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1o_nurjStVV-rKGZlEusyTHqISbuCT9wY/view?usp=sharing)
-5|Thu, Mar 21st, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
-6|TBD|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+1|Thu, Nov 14, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+2|***Thu, Nov 21, 2024 NO CLASS (TRAVELING BACK FROM INDIA) !!***|[Google Meet link]()|[Google Meeting Recording TBA]()
+3|***Thu, Nov 28, 2024 NO CLASS (THANKSGIVING WEEKEND) !!***|[Google Meet link]()|[Google Meeting Recording TBA]()
+4|Thu, Dec 5, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+5|Thu, Dec 12, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+6|Thu, Dec 19, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 
