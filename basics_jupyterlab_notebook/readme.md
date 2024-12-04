@@ -10,7 +10,7 @@ In this project you will get beginner's introduction to using JupyterLab and Jup
 
 **JupyterLab** is a next-generation web-based user interface for Project Jupyter. It enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner. It is the interface that you're looking at right now.  If you like a tour, you can click [Getting started with JupyterLab Interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).  Instead, you can also jump straight in below and learn by doing it!  If you are confused, come back to the above link.
 
-For a more complete discussion about JupyterLab I would recommnd No|Complexity page on [Mastering JupyterLab](https://nocomplexity.com/documents/jupyterlab/intro.html)
+For a more complete discussion about JupyterLab I would recommnd No Complexity page on [Mastering JupyterLab](https://nocomplexity.com/documents/jupyterlab/intro.html)
 
 ## Jupyter Notebooks 📓
 
@@ -18,7 +18,12 @@ For a more complete discussion about JupyterLab I would recommnd No|Complexity p
 
 JupyterLab is one interface used to create and interact with Jupyter Notebooks. Right-Click and open a new window for instructions to follow along in this Jupyter Notebook.
 
-Please complete the folowing steps in Sequence to open and modify your first Jupyter Notebooks
+Please complete the folowing Lessons/Notebooks in Sequence to learn about the JupyterLab environment
+
+Lessons | Topic Description
+---|---
+1|<a href="https://jupyterlab.readthedocs.io/en/stable/user/interface.html" target="_blank">Getting started with JupyterLab Interface</a>
+1|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank">Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username. Read instructions and execute each cell by pressing Shift-Enter on your keyboard.  You can double-click to open and do the same for the other Jupyter Notebooks 'Intro.ipynb' and ‘Lorenz.ipynb’ from the panel on your left to do more advanced examples.</a>
 
 1. [Right-Click to Open in New Window on this link and Log in to JupyterHub with your assigned username](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset). This should open your own Jupyter Notebook 'intro_to_jupyter.ipynb' in the JupyterLab IDE.
 
