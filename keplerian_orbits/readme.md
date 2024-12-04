@@ -9,7 +9,7 @@ Use the references below to author the two Jupyter Notebooks on Kepler's Laws an
 
 ### Jupyter Notebooks
 
-| Task | Status | Link
+| Lesson | Status | Link
 | :--- | :--- | :--- |
 | 0 | Prerequisite | [Intro to Plotting in Python!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F3_intro_to_plotting.ipynb?reset)
 | 1 & 2 | Lesson/Lab | [Intro to Kepler's Laws and Calculate the mass of the Central Star in the Kepler 11 system of Exoplanets!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset)
