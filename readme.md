@@ -41,6 +41,7 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```  . The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at brief.pythonintro@gmail.com, I will reset it.  Please see created usernames below.
 
 ## User Names created for the Fall 2024 Class
+
 Email|First|Last|Username
 ---|---|---|---
 Advaith|Arvind|adz.astro@gmail.com|advaith.arvind.p4a
