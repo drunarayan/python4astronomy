@@ -41,7 +41,35 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```  . The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at brief.pythonintro@gmail.com, I will reset it.  Please see created usernames below.
 
 ## User Names created for the Fall 2024 Class
-![Users](usernames.png)
+Email|First|Last|Username
+---|---|---|---
+russmgenet@aol.com|Russ|Genet|russ.genet.p4a
+richjaw001@gmail.com|Richard|Jaworski|richard.jaworski.p4a
+priyanka612bs@gmail.com|Priyanka|Sindhu|priyanka.sindhu.p4a
+abhiram.manuguri@gmail.com|Abhiram|Manuguri|abhiram.manuguri.p4a
+nicholas.bettwy@gmail.com|Nicholas|Bettwy|nicholas.bettwy.p4a
+rgsalinger@gmail.com|Ross|Saliinger|ross.saliinger.p4a
+rajaabirami01@gmail.com|Rajaabirami|Rajakumar|rajaabirami.rajakumar.p4a
+aayushroy2009@gmail.com|Ayush|Roy|ayush.roy.p4a
+Fatemehfallah767@gmail.com|Fatemeh|Fallahnejad|fatemeh.fallahnejad.p4a
+gavanesian10@gmail.com|Gabriel|Avanesian|gabriel.avanesian.p4a
+hennahmedsohail@gmail.com|Henna|Sohail|henna.sohail.p4a
+pranavmksb@gmail.com|Pranav|mksb|pranav.mksb.p4a
+mailx234@gmail.com|mailx234|student|mailx234.student.p4a
+Karissa.belzer@gmail.com|Karissa|belzer|karissa.belzer.p4a
+ejaewonkim@gmail.com|Edward|Kim|edward.kim.p4a
+richjaw001@gmail.com|Richard|Jaworski|richard.jaworski.p4a
+aravindakshabalaji@gmail.com|aravindaksha|balaji|aravindaksha.balaji.p4a
+warjurkar@hotmail.com|Dhanraj|Warjurkar|dhanraj.warjurkar.p4a
+aoswego@outlook.com|Sigi|Li|siqi.li.p4a
+aneesh.nayak211@gmail.com|Aneesh|Nayak|aneesh.nayak.p4a
+24launch@gmail.com|Wayne|Westlake|wayne.westlake.p4a
+lizaveta.nikitsenka@gmail.com|Lizaveta|Nikitsenka|lizaveta.nikitsenka.p4a
+vanyaa.khandelwal@gmail.com|Vanyaa|Khandelwal|vanyaa.khandelwal.p4a
+chakku41@gmail.com|Saraswathi|Venkataramani|saraswathi.venkataramani.p4a
+darshanraviv@gmail.com|Darshan|Ravi|darshan.ravi.p4a
+dhruvanravisprouts@gmail.com|Dhruvan|Ravi|dhruvan.ravi.p4a
+adz.astro@gmail.com|Advaith|Arvind|advaith.arvind.p4a
 
 ## Workshop organization & JupyterHub - your own virtual laptop in the sky!
 
@@ -73,9 +101,9 @@ Project|Topic Description
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
 1|Thu, Nov 14, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1YdtDY6Wc9uaaEeUAnN6ZHbF_JIZap8J-/view?usp=sharing)
-2|***Thu, Nov 21, 2024 NO CLASS (TRAVELING BACK FROM INDIA) !!***|[Google Meet link]()|[Google Meeting Recording TBA]()
-3|***Thu, Nov 28, 2024 NO CLASS (THANKSGIVING WEEKEND) !!***|[Google Meet link]()|[Google Meeting Recording TBA]()
-4|Thu, Dec 5, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+2|***Thu, Nov 21, 2024 NO CLASS (TRAVELING BACK FROM INDIA) !!***|[Google Meet link]()|[--NO CLASS--]()
+3|***Thu, Nov 28, 2024 NO CLASS (THANKSGIVING WEEKEND) !!***|[Google Meet link]()|[--NO CLASS--]()
+4|Thu, Dec 5, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link]()|[Sorry - no recording available - forgot to initiate!]()
 5|Thu, Dec 12, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 6|Thu, Dec 19, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 
