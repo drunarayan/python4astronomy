@@ -108,7 +108,7 @@ Item|Date|Google Meet Link|Google Recording Link
 2|***Thu, Nov 21, 2024 NO CLASS (TRAVELING BACK FROM INDIA) !!***|[Google Meet link]()|[--NO CLASS--]()
 3|***Thu, Nov 28, 2024 NO CLASS (THANKSGIVING WEEKEND) !!***|[Google Meet link]()|[--NO CLASS--]()
 4|Thu, Dec 5, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link]()|[Sorry - no recording available - forgot to initiate!]()
-5|Thu, Dec 12, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+5|Thu, Dec 12, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1VAntmu0xxJ1Y9OtfT8N4WFeGnPVrbWca/view?usp=sharing)
 5|Thu, Dec 19, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 6|Thu, Dec 30, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 7|Thu, Jan 06, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
