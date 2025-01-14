@@ -110,4 +110,5 @@ Item|Date|Google Meet Link|Google Recording Link
 3|Thu, Dec 12, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1VAntmu0xxJ1Y9OtfT8N4WFeGnPVrbWca/view?usp=sharing)
 4|Mon, Jan 06, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1OYgm4QeILfM70Hq6LpyfQPUKCV33B1t1/view?usp=sharing)
 5|Mon, Jan 13, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+6|Mon, Jan 20, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
 
