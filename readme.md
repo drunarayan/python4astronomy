@@ -1,10 +1,10 @@
 ## Course repository for the ***Python for Astronomy Fall 2024*** Workshop 
-#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan _(updated jan 7 2025)_
+#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan _(updated jan 18 2025)_
 
 ![m99](m99.png)
 
 ## Welcome to Python for Astronomy Workshop continuation in 2025! 
-### *Welcome back after the Thanksgiving Break!*
+### *Welcome to the final student Show & Tell session!*
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 

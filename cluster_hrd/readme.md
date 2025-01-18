@@ -1,7 +1,7 @@
 ### Hertzsprung Russell Diagrams of Star Clusters in the Milky way
 ### 
 
-Here is an excellent paper specific to doing customized and quite advanced Gaia queries for Open Clusters.  [I have provided a link here as a reference for follow up](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iopscience.iop.org/article/10.3847/1538-4365/acadd6/pdf). 
+Here is an excellent paper specific to doing customized and quite advanced Gaia queries for Open Clusters.  [I have provided a link here as a reference for follow up](Gaia_Open_Cluster_HRD_Paper_Qin_2023_ApJS_265_12.pdf). 
 
 Please do complete the Jupyter notebook of the simpler version linked below first and complete that before attempting the ides in the paper linked above. 
 
