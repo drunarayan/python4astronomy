@@ -18,20 +18,9 @@ For a more complete discussion about JupyterLab I would recommnd No Complexity p
 
 JupyterLab is one interface used to create and interact with Jupyter Notebooks. Right-Click and open a new window for instructions to follow along in this Jupyter Notebook.
 
-Please complete the folowing Lessons/Notebooks in Sequence to learn about the JupyterLab environment
+### You will be completing these notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/python4astronomy/)
 
-[Click here to pull in ALL the materials noted below for this project into your specific JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python).
-
-You will be asked to login. If you do not have a login, please email the teacher.
-
-You will be completing these notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/python4astronomy/)
-
-<div class="alert alert-danger">STOP! <strong>Have you read the Course Landing Page completely at leat once?</strong> If not please do so before attempting to do the notebooks below..</div>
-
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-  This is an alert box.
-</div>
+### STOP!! Have you read the [Course Landing Page completely](https://drunarayan.github.io/python4astronomy/) at least once?. If not please do so before attempting to do the notebooks below.
 
 ### Please try and complete Notebooks 1 & 2 below ahead of the workshop start date.  If you cannot log in, please contact me at drunarayan@gmail.com.
 
