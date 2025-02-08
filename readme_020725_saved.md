@@ -1,0 +1,114 @@
+## Course repository for the ***Python for Astronomy Fall 2024*** Workshop 
+#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan _(updated jan 18 2025)_
+
+![m99](m99.png)
+
+## Welcome to Python for Astronomy Workshop continuation in 2025! 
+### *Welcome to the final student Show & Tell session!*
+---
+### [The Cosmic Perspective](cosmic_perspective)
+
+#### ***Workshop commences 8:00 PM Pacific Time Thursday, Nov 14th, 2024. See below for details***
+
+Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
+
+Skills we will teach include:
+1. Jupyter Notebooks (the backbone of JupyterLab)
+1. JupyterHub & JupyterLab (dev environment for Jupyter Notebooks adopted widely by universities)
+1. Markdown Syntax (dynamic text, images, video and code embedded publishing)
+1. LaTeX (web and github enables equation editor for research)
+1. Python (language of choice for data science and STEM publications)
+1. Matplotlib (plotting large amounts of data)
+1. Pandas & Numpy (dataframes and math libraries for Python)
+1. SQL (structured query language for querying astro databases)
+
+We expect to run for 5 sessions ***every Thursday starting Nov 14th, 2024***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
+
+Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
+
+[Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy)  (this site)
+
+## What is Jupyter?
+
+If you are not familiar with [Project Jupyter](http://jupyter.org/), [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) [JupyterLab](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) or [JupyterHub](http://jupyter.org/hub), I highly recommend learning about them by following the embedded links.  
+
+All of the content provided here are accessible to you using a combination of technologies provided by [Jupyter](http://jupyter.org/) and [Github](https://github.com/) where 83+ million researchers around the world come together to publish the share their work.  
+
+You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
+
+## Create your JupyterLab Login for use later!
+
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```  . The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at brief.pythonintro@gmail.com, I will reset it.  Please see created usernames below.
+
+## User Names created for the Fall 2024 Class
+
+First|Last|eMail|Username
+---|---|---|---
+Advaith|Arvind|adz.astro@gmail.com|advaith.arvind.p4a
+Gabriel|Avanesian|gavanesian10@gmail.com|gabriel.avanesian.p4a
+aravindaksha|balaji|aravindakshabalaji@gmail.com|aravindaksha.balaji.p4a
+Karissa|belzer|Karissa.belzer@gmail.com|karissa.belzer.p4a
+Nicholas|Bettwy|nicholas.bettwy@gmail.com|nicholas.bettwy.p4a
+Grady|Boyce|grady@boyce-astro.org|grady.boyce.p4a
+Scott|Dixon|scottdixon@hotmail.com|scott.dixon.p4a
+Fatemeh|Fallahnejad|Fatemehfallah767@gmail.com|joey.han.p4a
+Russ|Genet|russmgenet@aol.com|russ.genet.p4a
+Joey|Han|mbird5363@gmail.com|russ.genet.p4a
+Richard|Jaworski|richjaw001@gmail.com|richard.jaworski.p4a
+Richard|Jaworski|richjaw001@gmail.com|richard.jaworski.p4a
+Vanyaa|Khandelwal|vanyaa.khandelwal@gmail.com|vanyaa.khandelwal.p4a
+Edward|Kim|ejaewonkim@gmail.com|edward.kim.p4a
+Sigi|Li|aoswego@outlook.com|siqi.li.p4a
+Abhiram|Manuguri|abhiram.manuguri@gmail.com|abhiram.manuguri.p4a
+Paul|McCudden|pmccudden@coloradomtn.edu|paul.mccudden.p4a
+Pranav|mksb|pranavmksb@gmail.com|pranav.mksb.p4a
+Aneesh|Nayak|aneesh.nayak211@gmail.com|aneesh.nayak.p4a
+Lizaveta|Nikitsenka|lizaveta.nikitsenka@gmail.com|lizaveta.nikitsenka.p4a
+Rajaabirami|Rajakumar|rajaabirami01@gmail.com|rajaabirami.rajakumar.p4a
+Darshan|Ravi|darshanraviv@gmail.com|darshan.ravi.p4a
+Dhruvan|Ravi|dhruvanravisprouts@gmail.com|dhruvan.ravi.p4a
+Ayush|Roy|aayushroy2009@gmail.com|ayush.roy.p4a
+Ross|Saliinger|rgsalinger@gmail.com|ross.saliinger.p4a
+Priyanka|Sindhu|priyanka612bs@gmail.com|priyanka.sindhu.p4a
+Henna|Sohail|hennahmedsohail@gmail.com|henna.sohail.p4a
+mailx234|student|mailx234@gmail.com|mailx234.student.p4a
+Saraswathi|Venkataramani|chakku41@gmail.com|saraswathi.venkataramani.p4a
+Dhanraj|Warjurkar|warjurkar@hotmail.com|dhanraj.warjurkar.p4a
+Wayne|Westlake|24launch@gmail.com|wayne.westlake.p4a
+
+## Workshop organization & JupyterHub - your own virtual laptop in the sky!
+
+The structure of this Workshop includes specific ***Projects*** below.  These Projects provide access to multiple materials, including **your own virtual laptop**, Jupyter Notebooks, media files (images, video), presentations, PDF files, CSV files, database files and the like.  Each Project wil have its own collection of content linked below.  When you click on the very first project link below to get started!
+
+When you do so, it will make your own initial copy to your JupyterHub account and allow you to edit and modify them.  As you modify them, ***JupyterLab*** (the IDE inside JupyterHub) will keep track of the modifications and you ***should never lose your edits***.  It is highly recommended that you ***do not change the names of the notebooks or files*** as they are being tracked and version controlled. You can always return to this page to access any specific project below where you can access your latest edits.  JupyterHub is widely used and state-of-the-art mechanism that universities use to manage Jupyter Notebooks and other course materials.  It is expected that future courses taught by me for BRIEF Programs will provide access to the same user account you are using now.
+
+## Projects & Materials Access
+#### Please complete these steps including ``Project 0`` ahead of the first session
+* [Download Seminar Outline here as a PDF file](https://drunarayan.github.io/python4astronomy/p4a_session_outline.pdf)
+* [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
+* Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
+
+
+Project|Topic Description
+---|---
+0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE</a>
+1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
+2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
+3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
+4|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
+5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
+6|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - SHOW & TELL STUDENT WORK!</a>
+
+
+
+## Workshop Zoom Meeting and Recording Links 
+
+Item|Date|Google Meet Link|Google Recording Link
+---|---|---|---
+1|Thu, Nov 14, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1YdtDY6Wc9uaaEeUAnN6ZHbF_JIZap8J-/view?usp=sharing)
+2|Thu, Dec 5, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link]()|[Sorry - no recording available - forgot to initiate!]()
+3|Thu, Dec 12, 2024 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1VAntmu0xxJ1Y9OtfT8N4WFeGnPVrbWca/view?usp=sharing)
+4|Mon, Jan 06, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1OYgm4QeILfM70Hq6LpyfQPUKCV33B1t1/view?usp=sharing)
+5|Mon, Jan 13, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording Ready](https://drive.google.com/file/d/1Daw_uBrA7tnPe5rhDSd2jpQ3ezmLAIpV/view?usp=sharing)
+6|Mon, Jan 20, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording TBA]()
+
