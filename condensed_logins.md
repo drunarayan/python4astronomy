@@ -1,5 +1,11 @@
 ## User Names created for the Condensed Python for Astronomy Workshop
 
+You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
+
+## Validate access for your JupyterLab Login for use later!
+
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```  . The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it. 
+
 First|Last|eMail|Username
 ---|---|---|---
 Pat|Boyce|pat@boyce-astro.org|pat.boyce.p4a

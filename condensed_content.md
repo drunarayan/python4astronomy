@@ -1,4 +1,5 @@
 ## Course Content
+
 Project|Topic Description
 ---|---
 0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF WORKSHOP START DATE</a>
