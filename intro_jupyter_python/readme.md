@@ -28,6 +28,11 @@ You will be completing these notebooks below in sequence. You can return to this
 
 <div class="alert alert-danger">STOP! <strong>Have you read the Course Landing Page completely at leat once?</strong> If not please do so before attempting to do the notebooks below..</div>
 
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  This is an alert box.
+</div>
+
 ### Please try and complete Notebooks 1 & 2 below ahead of the workshop start date.  If you cannot log in, please contact me at drunarayan@gmail.com.
 
 Notebooks | Topic Description
