@@ -9,7 +9,7 @@
 ![m99](m99.png)
 
 ## Premise 
-This course is taught upon request from the friends and staff of Boyce Astro Foundation Staff & Friends by Chandru Narayan. As such this course will primarily focus on the Python & Plotting using JupyterLab, Markdown, LaTeX, Data Frames, Gaia Queries, latest Computing concepts, and some maths taught in the original course. Although, we will deemphasise defining common Astromical terms, the complete details and original course content in the form of Jupyter Notebooks is [available here](readme_020725_saved) for you explore and download as needed. However, we will use the link below for the condensed content of this course.
+This course is taught upon request from the friends and staff of Boyce Astro Foundation Staff & Friends by Chandru Narayan. As such this course will primarily focus on the Python & Plotting using JupyterLab, Markdown, LaTeX, Data Frames, Gaia Queries, latest Computing concepts, and some maths taught in the original course. Although, we will deemphasise defining common Astromical terms, the complete details and original course content in the form of Jupyter Notebooks is [available here](readme_020725_saved) for you explore and download as needed. ***However, we will use the link below for the condensed content of this course***.
 
 ### * [Condensed Course Content](readme_condensed)
 
