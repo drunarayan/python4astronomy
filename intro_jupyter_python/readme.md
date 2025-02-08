@@ -26,6 +26,10 @@ You will be asked to login. If you do not have a login, please email the teacher
 
 You will be completing these notebooks below in sequence. You can return to this project and others for the Python for Astronomy Workshop from the [top-level table of contents linked here](https://drunarayan.github.io/python4astronomy/)
 
+<div class="alert alert-danger">STOP! <strong>Have you read the Course Landing Page completely at leat once?</strong> If not please do so before attempting to do the notebooks below..</div>
+
+### Please try and complete Notebooks 1 & 2 below ahead of the workshop start date.  If you cannot log in, please contact me at drunarayan@gmail.com.
+
 Notebooks | Topic Description
 ---|---
 1|<a href="https://jupyterlab.readthedocs.io/en/stable/user/interface.html" target="_blank">Getting started with JupyterLab Interface</a>
