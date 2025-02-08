@@ -2,7 +2,7 @@
 
  _(updated feb 8th 2025)_
 
- [Skip this landing page](readme_condensed) and go directly to course content. However, you need to read the sections below at least once as it has important information that you will need when you actually take the course.
+ [Skip this landing page](readme_condensed) and go directly to course content. However, ***you need to read the sections below first*** at least once as it has important information that you will need when you actually take the course.
 
 
 ### [The Cosmic Perspective](cosmic_perspective) _note all blue highlights you see like the one on the left are links to other content_
