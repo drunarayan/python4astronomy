@@ -33,10 +33,8 @@ Notebooks | Topic Description
 3|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F3_intro_to_plotting.ipynb?reset" target="_blank">Introduction to Plotting using Numpy & Matplotlib</a>
 
 1. Right-Click links above to Open in New Window on this link and Log in to JupyterHub with your assigned username.
-
 2. Read instructions and execute each cell by pressing Shift-Enter on your keyboard
 
-3. You can double-click to open and do the same for the other Jupyter Notebooks 'Intro.ipynb' and ‘Lorenz.ipynb’ from the panel on your left to do more advanced examples.
 
 
 
