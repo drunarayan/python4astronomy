@@ -18,10 +18,12 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 
 First|Last|eMail|Username
 ---|---|---|---
+Anisha|Bajaj|anishabajaj10@gmail.com|anisha.bajaj.p4a
 Pat|Boyce|pat@boyce-astro.org|pat.boyce.p4a
 Grady|Boyce|grady@boyce-astro.org|grady.boyce.p4a
 Joseph|Burch|jnbpisces@gmail.com|joseph.burch.p4a
 Scott|Dixon|scottdixon@hotmail.com|scott.dixon.p4a
 Russ|Genet|russmgenet@aol.com|russ.genet.p4a
 Mark|Harris|markharrisbsc@gmail.com|mark.harris.p4a
+Dhruv|Mehrotra|dhruvm.73737@gmail.com|dhruv.mehrotra.p4a
 Heinz|Vahlbruch|hello@heinzvahlbruch.com|heinz.valbruch.p4a
