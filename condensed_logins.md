@@ -9,6 +9,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 First|Last|eMail|Username
 ---|---|---|---
 Anisha|Bajaj|anishabajaj10@gmail.com|anisha.bajaj.p4a
+Devesh|Bajaj|girishbajaj@gmail.com|devesh.bajaj.p4a
 Pat|Boyce|pat@boyce-astro.org|pat.boyce.p4a
 Grady|Boyce|grady@boyce-astro.org|grady.boyce.p4a
 Joseph|Burch|jnbpisces@gmail.com|joseph.burch.p4a
