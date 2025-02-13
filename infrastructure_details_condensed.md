@@ -27,4 +27,5 @@ Scott|Dixon|scottdixon@hotmail.com|scott.dixon.p4a
 Russ|Genet|russmgenet@aol.com|russ.genet.p4a
 Mark|Harris|markharrisbsc@gmail.com|mark.harris.p4a
 Dhruv|Mehrotra|dhruvm.73737@gmail.com|dhruv.mehrotra.p4a
+Sumit|Mehrotra|sumit_mehrotra@live.com|sumit.mehrotra.p4a
 Heinz|Vahlbruch|hello@heinzvahlbruch.com|heinz.valbruch.p4a
