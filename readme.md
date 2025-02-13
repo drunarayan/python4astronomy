@@ -20,7 +20,7 @@ All content of this course is created on a Google Virtual Machine (VM) and deliv
 ### * [See here for additional information including your login information](infrastructure_details_condensed).
 
 ## Schedule
-We will teach this workshop in one marathon 3-hour session by request for the staff & frienda of the Boyce Astro foundation. This will be followed by a second session for show & tell and feedback. 
+We will teach this workshop in two marathon 3-hour sessions by request for the staff & frienda of the Boyce Astro foundation. This will be followed by a third session for show & tell and feedback. 
 
 ### * [See here for Schedule](condensed_schedule.md)
 
