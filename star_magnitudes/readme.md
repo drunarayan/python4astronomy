@@ -1,5 +1,5 @@
-### Star Magnitudes & Logarithms
-### 
+## Star Magnitudes & Logarithms
+
 
 [Click here to pull in your materials for this project into your JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fstar_magnitudes%2Fstar_plx_lum_mag_v2.ipynb?reset).
 
