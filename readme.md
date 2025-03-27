@@ -1,10 +1,10 @@
 ## Course repository for the ***Python for Astronomy Spring 2025*** Workshop 
-#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan _(updated mar 26 2025)_
+#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan 
+
 
 ![m99](m99.png)
 
-## Welcome to Python for Astronomy Workshop continuation in 2025! 
-### *Welcome to the final student Show & Tell session!*
+## Welcome to Python for Astronomy Spring 2025 edition! 
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 
@@ -38,7 +38,7 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 ## Create your JupyterLab Login for use later!
 
-You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. The first time you will log in, create a password you make up yourself.  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at dru.narayan@gmail.com, I will reset it.  Please see created usernames below.
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at dru.narayan@gmail.com, I will reset it.  Please see created usernames below.
 
 ## User Names created for the Spring 2025 Class
 
