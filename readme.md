@@ -50,7 +50,6 @@ Karissa|Belzer|Karissa.belzer@gmail.com|karissa.belzer.p4a
 Mohamed|Zeyada|modyomar576@gmail.com|mohamed.zeyada.p4a
 Sabrina|Baudart|sabrina.baudart@gmail.com|sabrina.baudart.p4a
 Tyler|Tuttle|tntuttle11@gmail.com|tyler.tuttle.p4a
-Shengwen|Zhang|Shengwenzhang6@gmail.com|shengwen.zhang.p4a
 Bingunmeh|Gukuu|bingunmeh@gmail.com|bingunmeh.gukuu.p4a
 Pranav|Muthukumaran|contactgrowthshow@gmail.com|pranav.muthukumaran.p4a
 Daniel|Obajemu|danielobajemua@gmail.com|daniel.obajemu.p4a
