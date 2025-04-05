@@ -45,6 +45,7 @@ You will be logging into JupyterHub for getting workshop materials and creating 
 First|Last|eMail|Username
 ---|---|---|---
 Pat|Boyce|pat@boyce-astro.org|pat.boyce.p4a
+Abbas|Mokhtarzadeh|urmozd01@gmail.com|abbas.mokhtarzadeh.p4a
 Shengwen|Zhang|Shengwenzhang6@gmail.com|shengwen.zhang.p4a
 Karissa|Belzer|Karissa.belzer@gmail.com|karissa.belzer.p4a
 Mohamed|Zeyada|modyomar576@gmail.com|mohamed.zeyada.p4a
