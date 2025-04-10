@@ -72,16 +72,27 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 * [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
 * Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
 
+## Projects Schedule
 
 Project|Topic Description
 ---|---
-0|<a href=a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE</a>
+0|<a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank">First Login to JupyterHub - What is JupyterLab - Jupyter Notebooks - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE</a>
 1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>
 2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton and Elliptical Orbits - the most natural way to move</a>
 3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
 4|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
 5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
 6|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - SHOW & TELL STUDENT WORK!</a>
+
+## Required Minimum Homework Schedule for each Project
+
+Project|Required Homework to complete
+---|---
+0|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank">Intro to Jupyter Notebooks</a>
+1|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F3_intro_to_plotting.ipynb?reset" target="_blank">Introduction to Plotting using Numpy & Matplotlib</a>
+2|<a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">a. Kepler 11 system of Exoplanets</a> <a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">AND b. Trappist 1 system of Exoplanets</a>
+3|[Star Magnitudes & Logratithms](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fstar_magnitudes%2Fstar_plx_lum_mag_v2.ipynb?reset)
+4|[GAIA Query & Hertzsprung Russell Diagram Plot of Half-amillion stars](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fhalf_a_mil%2Fgaia_guery_activity_updated_dr3_v3.ipynb?reset)
 
 
 
