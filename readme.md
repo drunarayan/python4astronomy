@@ -82,7 +82,7 @@ Project|Topic Description
 3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Star Magnitudes and Logarithms - change is everything</a>
 4|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query and plotting half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
 5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - the keystone of Astronomy</a>
-6|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung Russell Diagrams of Star Clusters - SHOW & TELL STUDENT WORK!</a>
+6|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">OPTIONAL: Hertzsprung Russell Diagrams of Star Clusters - SHOW & TELL STUDENT WORK!</a>
 
 ## Required Minimum Homework Schedule for each Project
 
@@ -92,7 +92,7 @@ Project|Required Homework to complete
 1|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F3_intro_to_plotting.ipynb?reset" target="_blank">Introduction to Plotting using Numpy & Matplotlib</a>
 2|<a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">a. Kepler 11 system of Exoplanets</a> <a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">AND b. Trappist 1 system of Exoplanets</a>
 3|[Star Magnitudes & Logratithms](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fstar_magnitudes%2Fstar_plx_lum_mag_v2.ipynb?reset)
-4|[GAIA Query & Hertzsprung Russell Diagram Plot of Half-amillion stars](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fhalf_a_mil%2Fgaia_guery_activity_updated_dr3_v3.ipynb?reset)
+4|[GAIA Query & Hertzsprung Russell Diagram Plot of Half-a-million stars](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fhalf_a_mil%2Fgaia_guery_activity_updated_dr3_v3.ipynb?reset)
 
 
 
