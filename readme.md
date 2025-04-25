@@ -8,7 +8,7 @@
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 
-#### ***Workshop commences 8:00 PM Pacific Time Friday, Mar 28th, 2025. See below for details***
+#### ***Workshop commences 8:00 PM Pacific Time Friday, Apr 25th, 2025. See below for details***
 
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
@@ -86,13 +86,13 @@ Project|Topic Description
 
 ## Required Minimum Homework Schedule for each Project
 
-Project|Required Homework to complete
----|---
-0|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank">Intro to Jupyter Notebooks</a>
-1|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F3_intro_to_plotting.ipynb?reset" target="_blank">Introduction to Plotting using Numpy & Matplotlib</a>
-2|<a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">a. Kepler 11 system of Exoplanets</a> <a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">AND b. Trappist 1 system of Exoplanets</a>
-3|[Star Magnitudes & Logratithms](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fstar_magnitudes%2Fstar_plx_lum_mag_v2.ipynb?reset)
-4|[GAIA Query & Hertzsprung Russell Diagram Plot of Half-a-million stars](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fhalf_a_mil%2Fgaia_guery_activity_updated_dr3_v3.ipynb?reset)
+Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
+---|---|---
+0|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank">Intro to Jupyter Notebooks</a>|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/basics_jupyterlab_notebook/intro_to_jupyter.ipynb){:target="_blank"}
+1|<a href="https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fintro_jupyter_python%2F3_intro_to_plotting.ipynb?reset" target="_blank">Introduction to Plotting using Numpy & Matplotlib</a>|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/intro_jupyter_python/3_intro_to_plotting.ipynb){:target="_blank"}
+2|<a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">a. Kepler 11 system of Exoplanets</a> <a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">AND b. Trappist 1 system of Exoplanets</a>|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/keplerian_orbits/keplerian_orbits.ipynb){:target="_blank"}
+3|[Star Magnitudes & Logratithms](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fstar_magnitudes%2Fstar_plx_lum_mag_v2.ipynb?reset)|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/star_magnitudes/star_plx_lum_mag_v2.ipynb){:target="_blank"}
+4|[GAIA Query & Hertzsprung Russell Diagram Plot of Half-a-million stars](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fhalf_a_mil%2Fgaia_guery_activity_updated_dr3_v3.ipynb?reset)|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/half_a_mil/gaia_guery_activity_updated_dr3_v3.ipynb){:target="_blank"}
 
 
 
