@@ -102,7 +102,7 @@ Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
 1|Fri, Apr  4, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1oK6ryOdYvjx1-e7Jh0_59uC29J0AcrF_/view?usp=sharing)
 2|Fri, Apr 11, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1UivkcBZLP3MBwUHHXVi4hYoq-b0pg_sO/view?usp=sharing)
-3|Fri, Apr 25, 2025 6:00 - 7:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+3|Fri, Apr 25, 2025 6:00 - 7:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1eab3-vNoIR9t7nyuVtOfs25rXvTk3ON6/view?usp=sharing)
 4|Fri, May 02, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
 5|Fri, May 09, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
 
