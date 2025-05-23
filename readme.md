@@ -40,21 +40,12 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at dru.narayan@gmail.com, I will reset it.  Please see created usernames below.
 
-## User Names created for the Spring 2025 Class
+## User Names created for the Fall 2025 Class
 
 First|Last|eMail|Username
 ---|---|---|---
 Pat|Boyce|pat@boyce-astro.org|pat.boyce.p4a
-Abbas|Mokhtarzadeh|urmozd01@gmail.com|abbas.mokhtarzadeh.p4a
-Shengwen|Zhang|Shengwenzhang6@gmail.com|shengwen.zhang.p4a
-Karissa|Belzer|Karissa.belzer@gmail.com|karissa.belzer.p4a
-Mohamed|Zeyada|modyomar576@gmail.com|mohamed.zeyada.p4a
-Sabrina|Baudart|sabrina.baudart@gmail.com|sabrina.baudart.p4a
-Tyler|Tuttle|tntuttle11@gmail.com|tyler.tuttle.p4a
-Bingunmeh|Gukuu|bingunmeh@gmail.com|bingunmeh.gukuu.p4a
-Pranav|Muthukumaran|contactgrowthshow@gmail.com|pranav.muthukumaran.p4a
-Daniel|Obajemu|danielobajemua@gmail.com|daniel.obajemu.p4a
-Christopher.|Rowe|gso.astrowe@gmail.com|christopher.rowe.p4a
+
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 
@@ -100,10 +91,11 @@ Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|Fri, Apr  4, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1oK6ryOdYvjx1-e7Jh0_59uC29J0AcrF_/view?usp=sharing)
-2|Fri, Apr 11, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1UivkcBZLP3MBwUHHXVi4hYoq-b0pg_sO/view?usp=sharing)
-3|Fri, Apr 25, 2025 6:00 - 7:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1eab3-vNoIR9t7nyuVtOfs25rXvTk3ON6/view?usp=sharing)
-4|Fri, May 02, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/1HHje75VDtMXwQOv5w1J154ty7B-8SQHy/view?usp=sharing)
-5|Fri, May 09, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording](https://drive.google.com/file/d/12eQ1XWD8D9KH6fFri-o1Vj_68REFFAvV/view?usp=sharing)
+1|Oct  13, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording]()
+2|Oct 20, 2025 8:00 - 9:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording]()
+3|Oct 27, 2025 6:00 - 7:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording]()
+4|Nov 03, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording]()
+5|Nov 10, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording]()
+6|Nov 17, 2025 7:00 - 8:00 PM Pacific Time|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|[Google Meeting Recording]()
 
 
