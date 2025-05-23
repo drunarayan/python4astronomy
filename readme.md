@@ -1,10 +1,10 @@
-## Course repository for the ***Python for Astronomy Spring 2025*** Workshop 
+## Course repository for the ***Python for Astronomy Fall 2025*** Workshop 
 #### taught for BRIEF Boyce Astro Foundation by Chandru Narayan 
 
 
 ![m99](m99.png)
 
-## Welcome to Python for Astronomy Spring 2025 edition! 
+## Welcome to Python for Astronomy Fall 2025 edition! 
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 
@@ -93,7 +93,7 @@ Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
 2|<a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">a. Kepler 11 system of Exoplanets</a> <a href="(https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fkeplerian_orbits%2Fkeplerian_orbits.ipynb?reset" target = "_blank">AND b. Trappist 1 system of Exoplanets</a>|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/keplerian_orbits/soln_for_keplerian_orbits.ipynb){:target="_blank"}
 3|[Star Magnitudes & Logarithms](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fstar_magnitudes%2Fstar_plx_lum_mag_v2.ipynb?reset)|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/star_magnitudes/soln_star_plx_lum_mag_v2.ipynb){:target="_blank"}
 4|[GAIA Query & Hertzsprung Russell Diagram Plot of Half-a-million stars](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fhalf_a_mil%2Fgaia_guery_activity_updated_dr3_v3.ipynb?reset)|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/half_a_mil/gaia_guery_activity_updated_dr3_v3.ipynb){:target="_blank"}
-5|[Hertzsprung Russell Diagrams of Star Clusters](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fcluster_hrd%2Fgaia_plot_cluster_hrd.ipynb?reset)|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/cluster_hrd/gaia_plot_cluster_hrd.ipynb){:target="_blank"}
+5|[Hertzsprung Russell Diagrams of Star Clusters](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fcluster_hrd%2Fgaia_plot_cluster_hrd.ipynb?reset)|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/cluster_hrd/simple_gaia_plot_cluster_hrd_print.ipynb){:target="_blank"}
 
 
 ## Workshop Zoom Meeting and Recording Links 
