@@ -8,7 +8,7 @@
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 
-#### ***Workshop commences 8:00 PM Pacific Time Friday, Apr 25th, 2025. See below for details***
+#### ***Workshop commences 8:00 PM Pacific Time Friday, Oct 17th, 2025. See below for details***
 
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at drunarayan@gmail.com if you would like to learn more about this course.
 
@@ -22,7 +22,7 @@ Skills we will teach include:
 1. Pandas & Numpy (dataframes and math libraries for Python)
 1. SQL (structured query language for querying astro databases)
 
-We expect to run for a total of 5 sessions ***every Friday starting Mar 28th, 2025***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
+We expect to run for a total of 5 sessions ***every Friday starting Oct 17th, 2025***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
@@ -38,14 +38,11 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 ## Create your JupyterLab Login for use later!
 
-You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***See & use the created usernames below. The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at dru.narayan@gmail.com, I will reset it.  Please see created usernames below.
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at drunarayan@gmail.com, I will reset it.  Please see created usernames by clicking below. 
 
-## User Names created for the Fall 2025 Class
+## [Click to see User Names already available for the Fall 2025 Class in our Google Virtual Machine](fall_2025_usernames.md)
 
-First|Last|eMail|Username
----|---|---|---
-Pat|Boyce|pat@boyce-astro.org|pat.boyce.p4a
-
+***If your username does not show up on this list below, please email drunarayan@gmail.com with the email address you used to register for the class and the username you require in the format described above***.
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 
