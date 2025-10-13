@@ -21,6 +21,7 @@ henna|sohail|henna.sohail.p4a
 joey|han|joey.han.p4a
 joseph|burch|joseph.burch.p4a
 karissa|belzer|karissa.belzer.p4a
+kripita|srivastava|kripita.srivastava.p4a
 mailx234|student|mailx234.student.p4a
 mark|harris|mark.harris.p4a
 nicholas|bettwy|nicholas.bettwy.p4a
