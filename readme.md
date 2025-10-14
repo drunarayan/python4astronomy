@@ -52,7 +52,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Availability of JupyterLab Virtual Machine (Your Virtual Laptop)
 
-***Your virtual laptops will be online and available Thursday Morning 8:00 AM to Sunday Evening 11:00 PM each week.  You will be able to login during these times and complete your assignments ahead of, during and after the web meeting sessions each week.***  At other times, the virtual machine will be taken down to reduce the cost of using the Google Cloud. If you have a special need, you can contact me and I will try and make accommodations.
+***Your virtual laptops will be online and available Thursday Morning 8:00 AM to Sunday Evening 11:00 PM Pacific Time each week.  You will be able to login during these times and complete your assignments ahead of, during and after the web meeting sessions each week.***  At other times, the virtual machine will be taken down to reduce the cost of using the Google Cloud. If you have a special need, you can contact me and I will try and make accommodations.
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
