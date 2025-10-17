@@ -4,7 +4,7 @@
 
 ![m99](m99.png)
 
-## Welcome to Python for Astronomy Fall 2025 edition! 
+## Welcome to Python for Astronomy Fall 2025 edition! [Please Click to Register](https://docs.google.com/forms/d/e/1FAIpQLSc_cgsoYUtq54KAIXh5C9Z143i0sIdOVCVsVFu3u7XBbH0S8g/viewform?usp=sharing&ouid=100322342120593496109)
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 
