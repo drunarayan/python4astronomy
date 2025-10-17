@@ -29,6 +29,7 @@ nicholas|bettwy|nicholas.bettwy.p4a
 pat|boyce|pat.boyce.p4a
 paul|mccudden|paul.mccudden.p4a
 priyanka|sindhu|priyanka.sindhu.p4a
+puneet|sethi|puneet.sethi.p4a
 richard|jaworski|richard.jaworski.p4a
 ross|saliinger|ross.saliinger.p4a
 sabrina|baudart|sabrina.baudart.p4a
