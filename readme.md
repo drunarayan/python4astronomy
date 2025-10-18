@@ -1,5 +1,5 @@
 ## Course repository for the ***Python for Astronomy Fall 2025*** Workshop 
-#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan 
+#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated 10/17*
 
 
 ![ngc772](NGC772.jpg)
