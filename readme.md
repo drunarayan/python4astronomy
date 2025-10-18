@@ -11,7 +11,7 @@
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
 - Oct 17th: [Please Click to Register](https://docs.google.com/forms/d/e/1FAIpQLSc_cgsoYUtq54KAIXh5C9Z143i0sIdOVCVsVFu3u7XBbH0S8g/viewform?usp=sharing&ouid=100322342120593496109){:target="_blank"}
 - Oct 16th: [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
-- Oct 15th: Workshop commences [8 PM Pacific Time Friday, Oct 17th, 2025](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1). See below for [full details](#workshop-zoom-meeting-and-recording-links)
+- Oct 15th: Workshop commences [8 PM Pacific Time Friday, Oct 17th, 2025](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1){:target="_blank"}. See below for [full details](#workshop-zoom-meeting-and-recording-links)
 
 ## Goals for the P4A workshop
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  if you would like to learn more about this course.
@@ -34,9 +34,9 @@ Please check this link below for ALL UPDATES.  I will try not to send emails or
 
 ## What is Jupyter?
 
-If you are not familiar with [Project Jupyter](http://jupyter.org/), [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) [JupyterLab](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) or [JupyterHub](http://jupyter.org/hub), I highly recommend learning about them by following the embedded links.  
+If you are not familiar with [Project Jupyter](http://jupyter.org/){:target="_blank"}, [Jupyter Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb){:target="_blank"} [JupyterLab](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb){:target="_blank"} or [JupyterHub](http://jupyter.org/hub){:target="_blank"}, I highly recommend learning about them by following the embedded links.  
 
-All of the content provided here are accessible to you using a combination of technologies provided by [Jupyter](http://jupyter.org/) and [Github](https://github.com/) where 83+ million researchers around the world come together to publish the share their work.  
+All of the content provided here are accessible to you using a combination of technologies provided by [Jupyter](http://jupyter.org/){:target="_blank"} and [Github](https://github.com/){:target="_blank"} where 83+ million researchers around the world come together to publish the share their work.  
 
 You will be accessing your own 'virtual laptop' hosted on a Google virtual machine somewhere in the globe to do your work.  You class materials will be available to you there and you will store the products of your learning there and not on your physical computer from which you are accessing this course. Your work will be to modify the Jupyter Notebooks to add text, images, video, to write your own code, query and retrieve astronomical databases, analyze and plot your results graphically.
 
@@ -92,11 +92,11 @@ Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
 0|Oct 10, 2025 ANY TIME| NO Google Meet - ONLY SELF STUDY|N/A
-1|[Oct 17 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1)|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-2|[Oct 24 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-24_20.00_America.Los_Angeles?forget=1)|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-3|[Oct 31 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-31_20.00_America.Los_Angeles?forget=1)|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-4|[Nov 07 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-07_20.00_America.Los_Angeles?forget=1)|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-5|[Nov 14 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-14_20.00_America.Los_Angeles?forget=1)|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
-6|OPTIONAL [Nov 21 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-21_20.00_America.Los_Angeles?forget=1)|[Google Meet link](https://meet.google.com/hwo-ttfv-smv)|Google Meeting Recording TBA
+1|[Oct 17 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+2|[Oct 24 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-24_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+3|[Oct 31 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-31_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+4|[Nov 07 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-07_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+5|[Nov 14 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-14_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+6|OPTIONAL [Nov 21 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-21_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 
 
