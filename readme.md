@@ -9,6 +9,7 @@
 ### [The Cosmic Perspective](cosmic_perspective)
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
+- Oct 18th: [Video recording of the first session is posted](https://drunarayan.github.io/python4astronomy/#workshop-zoom-meeting-and-recording-links){:target="_blank"}
 - Oct 17th: [Please Click to Register](https://docs.google.com/forms/d/e/1FAIpQLSc_cgsoYUtq54KAIXh5C9Z143i0sIdOVCVsVFu3u7XBbH0S8g/viewform?usp=sharing&ouid=100322342120593496109){:target="_blank"}
 - Oct 16th: [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
 - Oct 15th: Workshop commences [8 PM Pacific Time Friday, Oct 17th, 2025](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1){:target="_blank"}. See below for [full details](#workshop-zoom-meeting-and-recording-links)
@@ -92,7 +93,7 @@ Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
 0|Oct 10, 2025 ANY TIME| NO Google Meet - ONLY SELF STUDY|N/A
-1|[Oct 17 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+1|[Oct 17 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1vFXiL-9Dj9fCCmFqKpuVkwpG0Jun_rDA/view?usp=sharing){:target="_blank"}
 2|[Oct 24 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-24_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 3|[Oct 31 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-31_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 4|[Nov 07 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-07_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
