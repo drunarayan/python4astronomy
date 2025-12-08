@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stellar Distances: Parsecs & Light-Years</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .section {
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .section:last-child {
+            border-bottom: none;
+        }
+        .visual-aid {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .visual-aid img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        code {
+            background-color: #eef;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        ol {
+            list-style-type: decimal;
+            margin-left: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔭 Stellar Distances: Parsecs & Light-Years</h1>
+        <p>Welcome to our lesson on how astronomers measure vast distances in space! Today, we'll learn about a special unit called the "parsec" and how it relates to light-years, which you might already be familiar with.</p>
+        <p><strong>Objective:</strong> By the end of this lesson, you will be able to define the parsec, apply the small angle formula, and derive the conversion factor: <code>1 pc ≈ 3.26 ly</code>.</p>
+
+        <div class="section">
+            <h2>Part 1: Conceptual Foundation - Why We Need the Parsec</h2>
+            <h3>Review of Units & Stellar Parallax</h3>
+            <p>We often talk about distances in space using <strong>Astronomical Units (AU)</strong>, which is the average distance from the Earth to the Sun (about 150 million km). For even larger distances, we use <strong>Light-Years (ly)</strong>, the distance light travels in one year (about 9.46 trillion km!).</p>
+            <p>However, when measuring the distances to stars beyond our solar system, astronomers use a technique called <strong>stellar parallax</strong>. This is the apparent shift in a star's position as Earth orbits the Sun.</p>
+            <div class="visual-aid">
+                <p><em>Imagine viewing a nearby star from two different points in Earth's orbit.</em></p>
+            </div>
+            <p>The **parsec** (parallax-second) is a unit specifically designed for this method, simplifying the calculations.</p>
+            <h3>Defining the Parsec</h3>
+            <p>A **parsec (pc)** is defined as the distance at which an object with a size (arc length) of <strong>1 Astronomical Unit (AU)</strong> subtends a parallax angle of <strong>1 arc-second</strong>.</p>
+            <div class="visual-aid">
+                <p><em>A star 1 parsec away would show a parallax shift of 1 arc-second over a 1 AU baseline.</em></p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Part 2: The Small Angle Formula and Unit Conversion</h2>
+            <h3>The Small Angle Formula</h3>
+            <p>For very small angles, we can use a simplified trigonometric relationship called the <strong>Small Angle Formula</strong>:</p>
+            <p style="text-align: center; font-size: 1.2em;"><code>Distance (r) ≈ Baseline (d) / Angle (θ)</code></p>
+            <p><strong>Crucial Point:</strong> This formula only works if the angle (<code>θ</code>) is expressed in <strong>radians</strong>!</p>
+
+            <h3>Converting Arc-Seconds to Radians</h3>
+            <p>Our parallax angle is 1 arc-second. Let's convert this to radians:</p>
+            <ol>
+                <li>We know that <code>1 degree = π/180 radians</code>.</li>
+                <li>There are <code>60 arc-minutes</code> in <code>1 degree</code>.</li>
+                <li>There are <code>60 arc-seconds</code> in <code>1 arc-minute</code>.</li>
+                <li>So, <code>1 degree = 3600 arc-seconds</code>.</li>
+            </ol>
+            <p>Therefore, to convert 1 arc-second to radians:</p>
+            <p style="text-align: center; font-size: 1.1em;"><code>θ = 1 arc-sec × (1 degree / 3600 arc-sec) × (π radians / 180 degree)</code></p>
+            <p style="text-align: center; font-size: 1.1em;"><code>θ = π / (3600 × 180) radians ≈ 4.848 × 10<sup>-6</sup> radians</code></p>
+            <div class="visual-aid">
+                <p><em>Understanding the relationship between different angle units.</em></p>
+            </div>
+
+            <h3>Calculating 1 Parsec in AU</h3>
+            <p>Now, let's plug our values into the Small Angle Formula. For 1 parsec:</p>
+            <ul>
+                <li><code>d = 1 AU</code> (our baseline)</li>
+                <li><code>θ = π / (3600 × 180) radians</code> (our 1 arc-second in radians)</li>
+            </ul>
+            <p style="text-align: center; font-size: 1.2em;"><code>r (1 pc) = 1 AU / [π / (3600 × 180)]</code></p>
+            <p style="text-align: center; font-size: 1.2em;"><code>r (1 pc) = (3600 × 180) / π AU</code></p>
+            <p style="text-align: center; font-size: 1.2em;"><code>r (1 pc) ≈ 206,265 AU</code></p>
+            <p>So, one parsec is a truly immense distance—over 200,000 times the distance from Earth to the Sun!</p>
+        </div>
+
+        <div class="section">
+            <h2>Part 3: Final Conversion to Light-Years</h2>
+            <h3>Relating AU to Light-Years</h3>
+            <p>To convert our parsec value from AU to light-years, we need to know how many AU are in one light-year. This can be calculated by dividing the speed of light by Earth's orbital speed and other factors, but for simplicity, we use the established conversion:</p>
+            <p style="text-align: center; font-size: 1.1em;"><code>1 light-year (ly) ≈ 63,241 AU</code></p>
+            <p><em>(Note: Some approximations might use slightly different values, like 63,072 AU, which will lead to a similar final result.)</em></p>
+
+            <h3>The Grand Finale: 1 Parsec in Light-Years</h3>
+            <p>Now we just need to divide the number of AU in a parsec by the number of AU in a light-year:</p>
+            <p style="text-align: center; font-size: 1.2em;"><code>1 pc in ly = (206,265 AU / pc) / (63,241 AU / ly)</code></p>
+            <p style="text-align: center; font-size: 1.2em;"><code>1 pc ≈ 3.26 light-years</code></p>
+            <div class="visual-aid">
+                <p><em>Visualizing the immense difference between AU, light-years, and parsecs.</em></p>
+            </div>
+            <p>And there you have it! One parsec is approximately 3.26 light-years. This conversion is fundamental in understanding stellar distances in astronomy.</p>
+        </div>
+
+        <div class="section">
+            <h2>Assessment and Practice</h2>
+            <h3>Exit Ticket Question</h3>
+            <p>On a piece of paper or digitally, please answer the following:</p>
+            <ol>
+                <li>Briefly explain why the small angle formula requires the angle to be in radians.</li>
+                <li>A hypothetical star has a measured parallax angle of <code>0.75 arc-seconds</code>. Calculate its distance in both parsecs and light-years.</li>
+            </ol>
+            <div class="visual-aid">
+                <p><em>Time to test your knowledge!</em></p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2024 Astronomy Education. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
