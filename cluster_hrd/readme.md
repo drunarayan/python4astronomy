@@ -5,7 +5,7 @@ Here is an excellent paper specific to doing customized and quite advanced Gaia 
 
 Please do complete the Jupyter notebook of the simpler version linked below first and complete that before attempting the ides in the paper linked above. 
 
-[Click here to pull in your materials for this project into your JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fcluster_hrd%2Fgaia_plot_cluster_hrd.ipynb?reset).
+[Click here to pull in your materials for this project into your JupyterLab account](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fcluster_hrd%2FGaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"}.
 
 
 #### We will be querying Gaia for information on Open Star clusters in the Milky Way and plotting HRD's
