@@ -16,18 +16,17 @@ Our workshop will cover a smattering of interesting or historically significant 
 
 ### Advanced Maths topics with Python programming include:
 1. Powers of 10
-1. Units of measure and units conversion
-1. Triangles, Circles, and Ellipses
-1. Celestial coordinate systems
-1. Trigonometry and small angle approximations
 1. Independent and Dependent Variables & Functions
+1. Celestial coordinates, Units & Units conversions
+1. Triangles, Circles, and Ellipses
+1. Trigonometry and small angle approximation
 1. Exponentials and their Functions
 1. Logarithms and their Functions
 
 ### Computing Skills we will teach include:
 1. Jupyter Notebooks (the backbone of JupyterLab)
 1. JupyterHub & JupyterLab (dev environment for Jupyter Notebooks adopted widely by universities)
-1. Markdown Syntax (dynamic text, images, video and code embedded publishing)
+1. Markdown Syntax (dynamic text, images, video, code, publishing
 1. LaTeX (web and github enables equation editor for research)
 1. Python (language of choice for data science and STEM publications)
 1. Matplotlib (plotting large amounts of data)
@@ -50,7 +49,7 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 ## Create your JupyterLab Login for use later!
 
-You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a> , I will reset it.  Please see created usernames by clicking below. 
+You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name no spaces>.``` followed by ```<your last name no spaces>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a> , I will reset it.  Please see created usernames by clicking below. 
 
 ## [Click to see User Names already available for the Spring 2026 Class in our Google Virtual Machine](spring_2026_usernames.md)
 
