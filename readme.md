@@ -75,7 +75,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 * Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
 
 ## Projects Schedule
-<!-- 1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Start your first project - Intro to Jupyter Markdown LaTeX Python Plotting</a>  -->
+
 Project|Topic Description
 ---|---
 0|<a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank"> Jupyter First Login - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE </a>
