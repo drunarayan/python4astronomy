@@ -1,5 +1,5 @@
-## Course repository for the ***Python for Astronomy Fall 2025*** Workshop 
-#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Jan 5, 2026*
+## Course repository for the ***Python for Astronomy Fall 2026*** Workshop 
+#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 3, 2026*
 
 
 ![ngc772](NGC772.jpg)
@@ -9,25 +9,32 @@
 ### [The Cosmic Perspective](cosmic_perspective)
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
-- Oct 18th: [Video recording of the first session is posted](https://drunarayan.github.io/python4astronomy/#workshop-zoom-meeting-and-recording-links){:target="_blank"}
-- Oct 17th: [Please Click to Register](https://docs.google.com/forms/d/e/1FAIpQLSc_cgsoYUtq54KAIXh5C9Z143i0sIdOVCVsVFu3u7XBbH0S8g/viewform?usp=sharing&ouid=100322342120593496109){:target="_blank"}
-- Oct 16th: [A Cosmic Perspective](cosmic_perspective) - please read this account written by one of my high school students
-- Oct 15th: Workshop commences [8 PM Pacific Time Friday, Oct 17th, 2025](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1){:target="_blank"}. See below for [full details](#workshop-zoom-meeting-and-recording-links)
+- Website under construction for 2026 updates!
 
 ## Goals for the P4A workshop
-Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are High School, College students, or Early Career professionals. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep these resources free and open for use as much as possible to anyone who may be interested.  Please contact me at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  if you would like to learn more about this course.
+Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are Motivated High School, College students, or Early Career professionals. The courses are mostly free of charge other than a small fee for oprational expenses. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep Telescope & Computing resources free and open for use as much as possible for those students requiring financial assistance.  Please contact me directly at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  if you would like to learn more about this course or in need of special fee waivers.
 
-Skills we will teach include:
+### Advanced Maths topics with Python programming include:
+1. Powers of 10
+1. Units of measure and units conversion
+1. Triangles, Circles, and Ellipses
+1. Celestial coordinate systems
+1. Trigonometry and small angle approximations
+1. Independent and Dependent Variables & Functions
+1. Exponentials and their Functions
+1. Logarithms and their Functions
+
+### Computing Skills we will teach include:
 1. Jupyter Notebooks (the backbone of JupyterLab)
 1. JupyterHub & JupyterLab (dev environment for Jupyter Notebooks adopted widely by universities)
 1. Markdown Syntax (dynamic text, images, video and code embedded publishing)
 1. LaTeX (web and github enables equation editor for research)
 1. Python (language of choice for data science and STEM publications)
 1. Matplotlib (plotting large amounts of data)
-1. Pandas & Numpy (dataframes and math libraries for Python)
+1. Pandas, Scipy & Numpy (dataframes and math libraries for Python)
 1. SQL (structured query language for querying astro databases)
 
-We expect to run for a total of 5 sessions ***every Friday starting Oct 17th, 2025***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
+We expect to run for a total of 5 sessions ***every Monday starting March 9th***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
@@ -45,9 +52,9 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name>.``` followed by ```<your last name>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a> , I will reset it.  Please see created usernames by clicking below. 
 
-## [Click to see User Names already available for the Fall 2025 Class in our Google Virtual Machine](fall_2025_usernames.md)
+## [Click to see User Names already available for the Spring 2026 Class in our Google Virtual Machine](spring_2026_usernames.md)
 
-***If your username does not show up on this list below, please email <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  with the email address you used to register for the class and the username you require in the format described above***.
+***If your username does not show up on this list above, please email <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  with the email address you used to register for the class and the username you require in the format described above***.
 
 ## Workshop organization & JupyterLab - your own virtual laptop in the sky!
 
@@ -57,9 +64,9 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Availability of JupyterLab Virtual Machine (Your Virtual Laptop)
 
-***Your virtual laptops will be online and available Thursday Morning 11:00 AM to Sunday Evening 11:00 PM Pacific Time each week***. 
-* [Start Thu-Sat 8:00 AM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-11-28_8.00_America.Los_Angeles?forget=1){:target="_blank"}
-* [End Thu-Sat 10:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-12-28_22.00_America.Los_Angeles?forget=1){:target="_blank"}
+***Your virtual laptops will be online and available Sunday Morning 11:00 AM to Tuesday Evening 11:00 PM Pacific Time each week***. 
+* [START Sun-Tue 11:00 AM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_11.00_America.Los_Angeles?forget=1){:target="_blank"}
+* [END Thu-Sat 10:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_23.00_America.Los_Angeles?forget=1){:target="_blank"}
 
 ***You will be able to login during these times and complete your assignments ahead of, during and after the web meeting sessions each week.***  At other times, the virtual machine will be taken down to reduce the cost of using the Google Cloud. If you have a special need, you can contact me and I will try and make accommodations.
 
@@ -96,13 +103,12 @@ Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-0|Oct 10, 2025 ANY TIME| NO Google Meet - ONLY SELF STUDY|N/A
-1|[Oct 17 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-17_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1vFXiL-9Dj9fCCmFqKpuVkwpG0Jun_rDA/view?usp=sharing){:target="_blank"}
-2|[Oct 24 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-24_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1JSulYUeW7xJGVH4dSDgtvp6jvwS6WNy6/view?usp=sharing){:target="_blank"}
-3|[Oct 31 8-9:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-10-31_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1_saGbJFK3USmF_TWhkUNV_0TI_dOrDcd/view?usp=sharing){:target="_blank"}
-4|[Dec 12 7-8:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-12-12_19.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1GROxUy6HMP7lztDG6oeB3zKIbfb0LPcX/view?usp=sharing)
-5|[Dec  19-8:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-12-19_19.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
-6|[Dec  26-8:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2025-12-26_19.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
-7|AS NEEDED [Jan  02-8:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-01-02_19.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+0|**Mar 5, 2025 ANY TIME**| **NO Google Meet - ONLY SELF STUDY**|N/A
+1|[Mar 9 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
+2|[Mar 16 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-16_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
+3|[Mar 23 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-23_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
+4|[Mar 30 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-30_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
+5|[Apr 6 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-06_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
+7|AS NEEDED [Apr 6 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-06_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
 
 
