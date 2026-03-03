@@ -1,4 +1,4 @@
-## Course repository for the ***Python for Astronomy Fall 2026*** Workshop 
+## Course repository for the ***Python for Astronomy Spring 2026*** Workshop 
 #### taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 3, 2026*
 
 
