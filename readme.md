@@ -65,8 +65,8 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 ## Availability of JupyterLab Virtual Machine (Your Virtual Laptop)
 
 ***Your virtual laptops will be online and available Sunday Morning 11:00 AM to Tuesday Evening 11:00 PM Pacific Time each week***. 
-* [START Sun-Tue 11:00 AM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_11.00_America.Los_Angeles?forget=1){:target="_blank"}
-* [END Thu-Sat 10:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_23.00_America.Los_Angeles?forget=1){:target="_blank"}
+* [START Sun 11:00 AM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-08_11.00_America.Los_Angeles?forget=1){:target="_blank"}
+* [END Tue 11:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-10_23.00_America.Los_Angeles?forget=1){:target="_blank"}
 
 ***You will be able to login during these times and complete your assignments ahead of, during and after the web meeting sessions each week.***  At other times, the virtual machine will be taken down to reduce the cost of using the Google Cloud. If you have a special need, you can contact me and I will try and make accommodations.
 
