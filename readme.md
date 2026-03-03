@@ -109,6 +109,6 @@ Item|Date|Google Meet Link|Google Recording Link
 3|[Mar 23 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-23_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
 4|[Mar 30 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-30_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
 5|[Apr 6 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-06_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
-7|AS NEEDED [Apr 13 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-13_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
+6|AS NEEDED [Apr 13 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-13_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
 
 
