@@ -37,7 +37,7 @@ We expect to run for a total of 5 sessions ***every Monday starting March 9th***
 
 Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
 
-[Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy)  (this site)
+[Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy){:target="_blank"}  (this site)
 
 ## What is Jupyter?
 
@@ -63,7 +63,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Availability of JupyterLab Virtual Machine (Your Virtual Laptop)
 
-***Your virtual laptops will be online and available Sunday Morning 11:00 AM to Tuesday Evening 11:00 PM Pacific Time each week***. 
+***Your virtual laptops will be online and available Sunday Morning 11:00 AM to Tuesday Evening 11:00 PM Pacific Time each week*** for use in the classroom and for completing your assignments. The google VM is not available at times other than those specified below. 
 * [START Sun 11:00 AM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-08_11.00_America.Los_Angeles?forget=1){:target="_blank"}
 * [END Tue 11:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-10_23.00_America.Los_Angeles?forget=1){:target="_blank"}
 
@@ -71,8 +71,8 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Projects & Materials Access
 #### Please complete these steps including ``Project 0`` ahead of the first session
-* [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction)
-* Complete ```Project 0: First Login to JupyterHub  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
+* [Access Online OpenStax Astronomy Textbook here](https://openstax.org/books/astronomy-2e/pages/1-introduction){:target="_blank"}
+* Complete ```Project 0: First Login to Jupyter  - What is JupyterLab - Jupyter Notebooks - Learn Basics``` should be available for you to create your first lines of code in Python for this class.  I encourage you to click the first project below, ***login with your username and password as identified in the previous paragraphs***. See if you can complete this ahead of our first session!
 
 ## Projects Schedule
 
