@@ -1,9 +1,9 @@
 First|Last|Username
 ---|---|---
-lauren|albin|lauren.albin.p4a
-tj|geary|tj.geary.p4a
 chandru|narayan|chandru.narayan.p4a
 chang|sui|chang.sui.p4a
+lauren|albin|lauren.albin.p4a
+tj|geary|tj.geary.p4a
 
 <!-- abbas|mokhtarzadeh|abbas.mokhtarzadeh.p4a -->
 <!-- abhiram|manuguri|abhiram.manuguri.p4a -->
