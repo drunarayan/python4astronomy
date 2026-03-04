@@ -76,15 +76,15 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Projects Schedule
 
-Project|Topic Description
+Project|Topic Description|
 ---|---
-0|<a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank"> Jupyter First Login - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE </a>
-1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">Eratosthenes - Measure diameter of the Earth & Astro targets</a>
-2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">Tycho Brahe, Kepler, Newton - Elliptical Orbits - the most natural way to move</a>
-3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">Hipparchus - Star Magnitudes and Logarithms - change is everything</a>
-4|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">Gaia Query - Plot half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
-5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">Hertzsprung & Russell - Diagrams (HRD) of Open Star Clusters - the keystone of Astronomy</a>
-6|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">OPTIONAL: SHOW & TELL STUDENT WORK!</a>
+0|<a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank"> ```Jupyter First Login``` - Learn Basics - PLEASE COMPLETE AHEAD OF SEMINAR START DATE </a>
+1|<a href="https://drunarayan.github.io/python4astronomy/intro_jupyter_python" target="_blank">```Eratosthenes``` - Measure diameter of the Earth & Astro targets</a>
+2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">```Tycho Brahe, Kepler, Newton``` - Elliptical Orbits - the most natural way to move</a>
+3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">```Hipparchus``` - Star Magnitudes and Logarithms - change is everything</a>
+4|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">```Gaia Query``` - Plot half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
+5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">```Hertzsprung & Russell``` - Diagrams (HRD) of Open Star Clusters - the keystone of Astronomy</a>
+6|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">OPTIONAL: ```SHOW & TELL STUDENT WORK!```</a>
 
 ## Required Minimum Homework Schedule for each Project
 
@@ -102,7 +102,7 @@ Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-0|**Mar 5, 2025 ANY TIME**| **NO Google Meet - ONLY SELF STUDY**|N/A
+0|*Mar 5, 2025 ANY TIME*| *NO Google Meet - ONLY SELF STUDY*|N/A
 1|[Mar 9 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
 2|[Mar 16 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-16_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
 3|[Mar 23 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-23_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA](){:target="_blank"}
