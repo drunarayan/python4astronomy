@@ -1,6 +1,7 @@
 First|Last|Username
 ---|---|---
-chandru|narayan|chandru2026.p4a
+chandru|narayan|chandru.narayan.p4a
+
 <!-- abbas|mokhtarzadeh|abbas.mokhtarzadeh.p4a -->
 <!-- abhiram|manuguri|abhiram.manuguri.p4a -->
 <!-- advaith|arvind|advaith.arvind.p4a -->

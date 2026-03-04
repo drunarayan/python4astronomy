@@ -51,7 +51,7 @@ You will be accessing your own 'virtual laptop' hosted on a Google virtual machi
 
 You will be logging into JupyterHub for getting workshop materials and creating your own Jupyter Notebooks.  Your username is simply ```<your first name no spaces>.``` followed by ```<your last name no spaces>.``` followed by the word ```p4a``` you ```provided in your registration```. For instance, my username would be ```chandru.narayan.p4a```. ***The first time you log in, create and type in any password you make up yourself.***  That will become your actual password for this JupyterHub - please try not to forget it.  If you do, email me at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a> , I will reset it.  Please see created usernames by clicking below. 
 
-## [Click to see User Names already available for the Spring 2026 Class in our Google Virtual Machine](spring_2026_usernames.md)
+### [Click to see User Names already available for the Spring 2026 Class in our Google Virtual Machine](spring_2026_usernames.md)
 
 ***If your username does not show up on this list above, please email <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  with the email address you used to register for the class and the username you require in the format described above***.
 
