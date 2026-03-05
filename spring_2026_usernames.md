@@ -1,5 +1,6 @@
 First|Last|Username
 ---|---|---
+avigail|perez|avigail.perez.p4a
 chandru|narayan|chandru.narayan.p4a
 chang|sui|chang.sui.p4a
 lauren|albin|lauren.albin.p4a
