@@ -9,7 +9,7 @@
 ### [The Cosmic Perspective](cosmic_perspective)
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
-- Website under construction for 2026 updates!
+- [Usernames for students added!](#click-to-see-user-names-already-available-for-the-spring-2026-class-in-our-google-virtual-machine){:target="_blank"}
 
 ## Goals for the P4A workshop
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are Motivated High School, College students, or Early Career professionals. The courses are mostly free of charge other than a small fee for oprational expenses. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep Telescope & Computing resources free and open for use as much as possible for those students requiring financial assistance.  Please contact me directly at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  if you would like to learn more about this course or in need of special fee waivers.
