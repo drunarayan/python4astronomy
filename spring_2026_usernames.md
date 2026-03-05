@@ -1,9 +1,21 @@
 First|Last|Username
 ---|---|---
 avigail|perez|avigail.perez.p4a
-chandru|narayan|chandru.narayan.p4a
 chang|sui|chang.sui.p4a
+christopher|rowe|christopher.rowe.p4a
+dinesh|shetty|dinesh.shetty.p4a
+doctor|astronaut|doctor.astronaut.p4a
+frances|anekwe|frances.anekwe.p4a
 lauren|albin|lauren.albin.p4a
+mary|megrant|mary.megrant.p4a
+mohamed|elattar|mohamed.elattar.p4a
+nicholas|bettwy|nicholas.bettwy.p4a
+rishwanth|babu|rishwanth.babu.p4a
+ronald|lawrence|ronald.lawrence.p4a
+sabrina|baudart|sabrina.baudart.p4a
+shanzeh|khan|shanzeh.khan.p4a
+siddharth|mahesh|siddharth.mahesh.p4a
+sydney|pelnar|sydney.pelnar.p4a
 tj|geary|tj.geary.p4a
 
 <!-- abbas|mokhtarzadeh|abbas.mokhtarzadeh.p4a -->
