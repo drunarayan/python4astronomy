@@ -15,13 +15,14 @@
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are Motivated High School, College students, or Early Career professionals. The courses are mostly free of charge other than a small fee for oprational expenses. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep Telescope & Computing resources free and open for use as much as possible for those students requiring financial assistance.  Please contact me directly at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  if you would like to learn more about this course or in need of special fee waivers.
 
 ### Advanced Maths topics with Python programming include:
-1. Powers of 10
+1. Powers of 10, Units of measure for distance and angles
 1. Independent and Dependent Variables & Functions
 1. Celestial coordinates, Units & Units conversions
 1. Triangles, Circles, and Ellipses
 1. Trigonometry and small angle approximation
 1. Exponentials and their Functions
 1. Logarithms and their Functions
+1. Derivation of Astronomical equations you have taken for granted
 
 ### Computing Skills we will teach include:
 1. Jupyter Notebooks (the backbone of JupyterLab)
