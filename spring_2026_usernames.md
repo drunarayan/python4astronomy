@@ -1,22 +1,22 @@
-First|Last|Username
----|---|---
-avigail|perez|avigail.perez.p4a
-chang|sui|chang.sui.p4a
-christopher|rowe|christopher.rowe.p4a
-dinesh|shetty|dinesh.shetty.p4a
-doctor|astronaut|doctor.astronaut.p4a
-frances|anekwe|frances.anekwe.p4a
-lauren|albin|lauren.albin.p4a
-mary|megrant|mary.megrant.p4a
-mohamed|elattar|mohamed.elattar.p4a
-nicholas|bettwy|nicholas.bettwy.p4a
-rishwanth|babu|rishwanth.babu.p4a
-ronald|lawrence|ronald.lawrence.p4a
-sabrina|baudart|sabrina.baudart.p4a
-shanzeh|khan|shanzeh.khan.p4a
-siddharth|mahesh|siddharth.mahesh.p4a
-sydney|pelnar|sydney.pelnar.p4a
-tj|geary|tj.geary.p4a
+First|Last|Username|Password|Pre-work to Complete by Mar 9th
+---|---|---|---|---
+avigail|perez|avigail.perez.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+chang|sui|chang.sui.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+christopher|rowe|christopher.rowe.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+dinesh|shetty|dinesh.shetty.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+doctor|astronaut|doctor.astronaut.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+frances|anekwe|frances.anekwe.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+lauren|albin|lauren.albin.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+mary|megrant|mary.megrant.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+mohamed|elattar|mohamed.elattar.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+nicholas|bettwy|nicholas.bettwy.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+rishwanth|babu|rishwanth.babu.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+ronald|lawrence|ronald.lawrence.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+sabrina|baudart|sabrina.baudart.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+shanzeh|khan|shanzeh.khan.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+siddharth|mahesh|siddharth.mahesh.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+sydney|pelnar|sydney.pelnar.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+tj|geary|tj.geary.p4a|Create your own password during first Login!|[Project 0: Intro to Jupyter Notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook%2Fintro_to_jupyter.ipynb?reset" target="_blank")
 
 <!-- abbas|mokhtarzadeh|abbas.mokhtarzadeh.p4a -->
 <!-- abhiram|manuguri|abhiram.manuguri.p4a -->
