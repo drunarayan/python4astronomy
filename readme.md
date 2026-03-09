@@ -6,7 +6,7 @@
 
 ## Welcome to Python for Astronomy! [2026 course flyer](src/python4astro_flyer.png)
 
-## [Slack channel for all student communications - please add hello msg with login country/time-zone](https://boyce-astro-seminars.slack.com/archives/C0AKGDN9KTL)
+## [Slack channel for all student communications - please add hello msg with login country/time-zone](https://boyce-astro-seminars.slack.com/archives/C0AKGDN9KTL){:target="_blank"}
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 
