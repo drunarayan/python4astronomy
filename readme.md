@@ -1,5 +1,5 @@
 ## Course repository for the ***Python for Astronomy Spring 2026*** Workshop 
-#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 4, 2026*
+#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 10, 2026*
 
 
 ![ngc772](NGC772.jpg)
@@ -69,7 +69,7 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ***Your virtual laptops will be online and available Sunday Morning 11:00 AM to Tuesday Evening 11:00 PM Pacific Time each week*** for use in the classroom and for completing your assignments. The google VM is not available at times other than those specified below. 
 * [START Sun 11:00 AM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-08_11.00_America.Los_Angeles?forget=1){:target="_blank"}
-* [END Tue 11:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-10_23.00_America.Los_Angeles?forget=1){:target="_blank"}
+* [END Thu 11:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-12_23.00_America.Los_Angeles?forget=1){:target="_blank"}
 
 ***You will be able to login during these times and complete your assignments ahead of, during and after the web meeting sessions each week.***  At other times, the virtual machine will be taken down to reduce the cost of using the Google Cloud. If you have a special need, you can contact me and I will try and make accommodations.
 
