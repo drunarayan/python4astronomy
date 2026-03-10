@@ -6,12 +6,12 @@
 
 ## Welcome to Python for Astronomy! [2026 course flyer](src/python4astro_flyer.png)
 
-## [Slack channel for all student communications - please add hello msg with login country/time-zone](https://boyce-astro-seminars.slack.com/archives/C0AKGDN9KTL){:target="_blank"}
+## [UPDATED! Slack channel for all student communications - please join the new channel and use this for all communications](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}
 ---
 ### [The Cosmic Perspective](cosmic_perspective)
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
-- **Mar 09: Slack Channel added for this seminar, see above!**
+- **Mar 09: UPDATED Slack Channel added for this seminar, see above!**
 - [Mar 06: Usernames for registered students added! If you do not see your username email drunarayan@gmail.com](#click-to-see-user-names-already-available-for-the-spring-2026-class-in-our-google-virtual-machine){:target="_blank"}
 
 ## Goals for the P4A workshop
