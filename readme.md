@@ -1,18 +1,23 @@
 ## Course repository for the ***Python for Astronomy Spring 2026*** Workshop 
-#### taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 10, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 10, 2026*
+
+*[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG).  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
+
 
 
 ![ngc772](NGC772.jpg)
 
 ## Welcome to Python for Astronomy! [2026 course flyer](src/python4astro_flyer.png)
 
-## [UPDATED! Slack channel for all student communications - please join the new channel and use this for all communications](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}
+
 ---
-### [The Cosmic Perspective](cosmic_perspective)
+### 
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
-- **Mar 09: UPDATED Slack Channel added for this seminar, see above!**
-- [Mar 06: Usernames for registered students added! If you do not see your username email drunarayan@gmail.com](#click-to-see-user-names-already-available-for-the-spring-2026-class-in-our-google-virtual-machine){:target="_blank"}
+- *Mar 11:* First session [recording](#workshop-zoom-meeting-and-recording-links) is posted
+- *Mar 09:* [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"} ````for all questions and other communications for this seminar````
+- *Mar 06:* [````Usernames````](#click-to-see-user-names-already-available-for-the-spring-2026-class-in-our-google-virtual-machine){:target="_blank"} for registered students added! If you do not see your username email drunarayan@gmail.com
+- [````The Cosmic Perspective````](cosmic_perspective)
 
 ## Goals for the P4A workshop
 Our workshop will cover a smattering of interesting or historically significant Astronomy topics in no particular sequence.  However, the main goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are Motivated High School, College students, or Early Career professionals. The courses are mostly free of charge other than a small fee for oprational expenses. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep Telescope & Computing resources free and open for use as much as possible for those students requiring financial assistance.  Please contact me directly at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  if you would like to learn more about this course or in need of special fee waivers.
@@ -39,9 +44,7 @@ Our workshop will cover a smattering of interesting or historically significant 
 
 We expect to run for a total of 5 sessions ***every Monday starting March 9th***. Look for a Google Meet schedule links to be available at this page ahead of the workshop start date. 
 
-Please check this link below for ALL UPDATES.  I will try not to send emails or notifications for any updates.  All materials will show up on this link below.  So please bookmark it check it frequently. 
-
-[Python for Astronomy Course Website](http://drunarayan.github.io/python4astronomy){:target="_blank"}  (this site)
+Please check the [````Python for Astronomy Course Website````](http://drunarayan.github.io/python4astronomy){:target="_blank"} for ALL UPDATES. All materials will show up on this website. So please bookmark it check it frequently. 
 
 ## What is Jupyter?
 
