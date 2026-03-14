@@ -1,11 +1,14 @@
-## Course repository for the ***Python for Astronomy Spring 2026*** Workshop 
+## ***Python for Astronomy Spring 2026*** Workshop 
+
+![ngc772](NGC772.jpg)
+
 taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 10, 2026*
 
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
 
 
-![ngc772](NGC772.jpg)
+
 
 ## Welcome to Python for Astronomy! [2026 course flyer](src/python4astro_flyer.png)
 
