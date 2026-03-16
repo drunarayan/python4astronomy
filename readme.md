@@ -2,7 +2,7 @@
 
 ![ngc772](NGC772.jpg)
 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 15, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 16, 2026*
 
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
@@ -17,6 +17,8 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 15, 
 ### 
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
+- *Mar 16:* [Quasar 3C253 Cosmological Red-shift measurement](src/3c273_with_reference_lines.jpg){:target="_blank"} session tonight after class!
+- *Mar 16:* Answers to questions about assignment [added to slack](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"} 
 - *Mar 11:* First session [recording](#workshop-zoom-meeting-and-recording-links) is posted
 - *Mar 09:* [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"} ````for all questions and other communications for this seminar````
 - *Mar 06:* [````Usernames````](#click-to-see-user-names-already-available-for-the-spring-2026-class-in-our-google-virtual-machine){:target="_blank"} for registered students added! If you do not see your username email drunarayan@gmail.com
