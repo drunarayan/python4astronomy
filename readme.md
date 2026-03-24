@@ -7,11 +7,9 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated March 23, 
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
 
-
-
-
 ## Welcome to Python for Astronomy! [2026 course flyer](src/python4astro_flyer.png)
 
+## Following Seminar [Intro to Spectroscopy 2026 Course Flyer!](## Welcome to Python for Astronomy! [2026 course flyer](src/python4astro_flyer.png)) Add yourself to [the waitlist for this course!](https://boyce-astro.org/intro-to-spectroscopy/)
 
 ---
 ### 
