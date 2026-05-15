@@ -2,7 +2,7 @@
 
 ![ngc772](NGC772.jpg)
 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated April 7, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated May 15, 2026*
 
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
