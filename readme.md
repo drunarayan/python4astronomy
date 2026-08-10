@@ -1,15 +1,15 @@
-## ***Python for Astronomy Spring 2026*** Workshop 
+## ***Python for Astronomy Fall/Winter 2026*** Workshop 
 
 ![ngc772](NGC772.jpg)
 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated May 23, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Aug 10, 2026*
 
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
 
-## Welcome to Python for Astronomy! [2026 course flyer](src/python4astro_flyer.png)
+## Welcome to Python for Astronomy! [2026 Fall/Winter course flyer](src/python4astro_flyer.png)
 
-## [NEW Intro to Spectroscopy 2026 Course Flyer!](src/barospection_flyer.png) Add yourself to [the waitlist for this course!](https://boyce-astro.org/intro-to-spectroscopy/)
+## [Intro to Spectroscopy 2026 Course Flyer!](src/barospection_flyer.png) Add yourself to [the waitlist for this course!](https://boyce-astro.org/intro-to-spectroscopy/)
 
 ---
 ### 
