@@ -1,6 +1,5 @@
 ## ***Python for Astronomy*** fall/winter 2026 seminar 
 
-#![messier31](m31.png)
 ![messier27](m27.png)
 
 taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 19, 2026*
