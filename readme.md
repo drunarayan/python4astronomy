@@ -2,7 +2,7 @@
 
 ![messier27](m27.png)
 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 19, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 25, 2026*
 
 
 
@@ -15,11 +15,21 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 19, 20
 
 ### [Note that this course is a pre-requisite to the Follow-on Intro to Spectroscopy Seminar. If interested, add yourself to the waitlist for the Spectroscopy Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Dec 16th, 2026***
 
+### Seminar Zoom Meeting and Recording Links 
 
----
-### 
+Item|Date|Google Meet Link|Google Recording Link
+---|---|---|---
+1|[Oct 28 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
+2|[Nov 4 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
+3|[Nov 11 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
+4|[Nov 18 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
+5|[Nov 25 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
+6|AS NEEDED [Dec 9 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-13_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
+- *Oct 25:* [Please register for Fall 2026 session by adding yourself to the waitlist for the Python for Astronomy Seminar](https://boyce-astro.org/python-for-astronomy-sign-up/) ***Class Starts Oct 28th, 2026***. 
+
 - *Mar 24:* [ANNOUNCING new Intro to Spectroscopy Seminar!](src/barospection_flyer.png) Students will take live spectra of stars, galaxies & nebulae and analyze them using RSpec
 - *Mar 24:* [Complete assignments Project 3 - Star Magnitudes & Logarithms](#required-minimum-homework-schedule-for-each-project). Session [Recording has been added](https://drive.google.com/file/d/1YLoOfiubaz4s0kpl5iNJTsjzLL7dCJ6E/view?usp=sharing)
 - *Mar 17:* [Complete assignments 2a & 2b](#required-minimum-homework-schedule-for-each-project). Session [Recording has been added](#workshop-zoom-meeting-and-recording-links)
@@ -117,16 +127,5 @@ Project|Required Jupyter Notebook to edit|View Only Jupyter Notebook
 5|[Hertzsprung Russell Diagrams of Open Star Clusters](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fcluster_hrd%2FGaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"}|[View Only](https://nbviewer.org/github/drunarayan/python4astronomy/blob/gh-pages/cluster_hrd/Gaia_HRD_Open_Clusters_v1.ipynb?reset){:target="_blank"}{:target="_blank"}
 
 
-## Workshop Zoom Meeting and Recording Links 
-
-Item|Date|Google Meet Link|Google Recording Link
----|---|---|---
-0|*Mar 5, 2025 ANY TIME*| *NO Google Meet - ONLY SELF STUDY*|N/A
-1|[Mar 9 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1enhKSpHh1_amM7VBDOnH2fxc5zFlwGJp/view?usp=sharing){:target="_blank"}
-2|[Mar 16 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-16_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1BFaU7_lQxRLJMiazdl8xFJxwk25fX0Dq/view?usp=sharing)
-3|[Mar 23 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-23_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1YLoOfiubaz4s0kpl5iNJTsjzLL7dCJ6E/view?usp=sharing)
-4|[Mar 30 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-30_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|No students showed up for session
-5|[Apr 6 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-06_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1AjJaplnLS6Fi2kDrGcFJ5tF-Ld5iJ4D1/view?usp=sharing)
-6|AS NEEDED [Apr 13 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-13_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 
 
