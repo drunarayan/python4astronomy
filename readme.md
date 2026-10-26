@@ -28,8 +28,10 @@ Item|Date|Google Meet Link|Google Recording Link
 
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
-- *Oct 25:* [Please register for Fall 2026 session by adding yourself to the waitlist for the Python for Astronomy Seminar](https://boyce-astro.org/python-for-astronomy-sign-up/) ***Class Starts Oct 28th, 2026***. 
+- ***Oct 25:*** [Please register for Fall 2026 session by adding yourself to the waitlist for the Python for Astronomy Seminar](https://boyce-astro.org/python-for-astronomy-sign-up/) ***Class Starts Oct 28th, 2026. 
+- ***Oct 25:*** Please note that this seminar is the pre-requisite to the BAROSpection - Inro to Spectroscopy seminar starting Dec 16th***. [You may add yourself to the waitlist for this seminar here.](https://boyce-astro.org/spectroscopy-sign-up/)
 
+*** Old News ***
 - *Mar 24:* [ANNOUNCING new Intro to Spectroscopy Seminar!](src/barospection_flyer.png) Students will take live spectra of stars, galaxies & nebulae and analyze them using RSpec
 - *Mar 24:* [Complete assignments Project 3 - Star Magnitudes & Logarithms](#required-minimum-homework-schedule-for-each-project). Session [Recording has been added](https://drive.google.com/file/d/1YLoOfiubaz4s0kpl5iNJTsjzLL7dCJ6E/view?usp=sharing)
 - *Mar 17:* [Complete assignments 2a & 2b](#required-minimum-homework-schedule-for-each-project). Session [Recording has been added](#workshop-zoom-meeting-and-recording-links)
