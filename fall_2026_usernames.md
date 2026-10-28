@@ -21,10 +21,9 @@ Pam|Morgan-McKee|pam.morgan.p4a|Create your own password during first Login!|[pr
 steve|ruttenberg|steve.ruttenberg.p4a|Create your own password during first Login!|[project 0: intro to jupyter notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3a%2f%2fgithub.com%2fdrunarayan%2fpython4astronomy&branch=gh-pages&urlpath=lab%2ftree%2fpython4astronomy%2fbasics_jupyterlab_notebook%2fintro_to_jupyter.ipynb?reset" target="_blank")
 Kenny|Chan|kenny.chan.p4a|Create your own password during first Login!|[project 0: intro to jupyter notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3a%2f%2fgithub.com%2fdrunarayan%2fpython4astronomy&branch=gh-pages&urlpath=lab%2ftree%2fpython4astronomy%2fbasics_jupyterlab_notebook%2fintro_to_jupyter.ipynb?reset" target="_blank")
 Ananya|Yogesh|ananya.yogesh.p4a|Create your own password during first Login!|[project 0: intro to jupyter notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3a%2f%2fgithub.com%2fdrunarayan%2fpython4astronomy&branch=gh-pages&urlpath=lab%2ftree%2fpython4astronomy%2fbasics_jupyterlab_notebook%2fintro_to_jupyter.ipynb?reset" target="_blank")
-Chandru|Narayan|chandru.narayan.p4a|Create your own password during first Login!|[project 0: intro to jupyter notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https://boyceastrows.gleeze.com/hub/user-redirect/lab/tree/python4astronomy/intro_jupyter_python/1_intro_to_jupyter.ipynb?reset" target="_blank")
+Chandru|Narayan|chandru.narayan.p4a|Create your own password during first Login!|[project 0: intro to jupyter notebooks](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https://github.com/drunarayan/python4astronomy&branch=gh-pages&urlpath=lab/tree/python4astronomy/intro_jupyter_python/1_intro_to_jupyter.ipynb?reset" target="_blank)
 
-
-<!-- https://boyceastrows.gleeze.com/hub/user-redirect/lab/tree/python4astronomy/intro_jupyter_python/1_intro_to_jupyter.ipynb -->
+<!-- https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https://github.com/drunarayan/python4astronomy&branch=gh-pages&urlpath=lab/tree/python4astronomy/intro_jupyter_python/1_intro_to_jupyter.ipynb?reset" target="_blank" -->
 <!-- abbas|mokhtarzadeh|abbas.mokhtarzadeh.p4a -->
 <!-- abhiram|manuguri|abhiram.manuguri.p4a -->
 <!-- advaith|arvind|advaith.arvind.p4a -->
