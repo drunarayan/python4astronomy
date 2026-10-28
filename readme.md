@@ -4,8 +4,6 @@
 
 taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 28, 2026*
 
-
-
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
 
@@ -28,19 +26,11 @@ Item|Date|Google Meet Link|Google Recording Link
 
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
+- ***Oct 28:*** [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0CC753SMCM){:target="_blank"} ````for all questions and other communications for this seminar````
+- ***Oct 28:*** [````Usernames````](#create-your-jupyterlab-login-for-use-later){:target="_blank"} for registered students added! If you do not see your username email drunarayan@gmail.com
 - ***Oct 25:*** [Please register for Fall 2026 session by adding yourself to the waitlist for the Python for Astronomy Seminar](https://boyce-astro.org/python-for-astronomy-sign-up/) ***Class Starts Oct 28th, 2026. 
 - ***Oct 25:*** Please note that this seminar is the pre-requisite to the BAROSpection - Inro to Spectroscopy seminar starting Dec 16th***. [You may add yourself to the waitlist for that seminar here.](https://boyce-astro.org/spectroscopy-sign-up/)
-
-*** Old News ***
-- *Mar 24:* [ANNOUNCING new Intro to Spectroscopy Seminar!](src/barospection_flyer.png) Students will take live spectra of stars, galaxies & nebulae and analyze them using RSpec
-- *Mar 24:* [Complete assignments Project 3 - Star Magnitudes & Logarithms](#required-minimum-homework-schedule-for-each-project). Session [Recording has been added](https://drive.google.com/file/d/1YLoOfiubaz4s0kpl5iNJTsjzLL7dCJ6E/view?usp=sharing)
-- *Mar 17:* [Complete assignments 2a & 2b](#required-minimum-homework-schedule-for-each-project). Session [Recording has been added](#workshop-zoom-meeting-and-recording-links)
-- *Mar 16:* [Quasar 3C253 Cosmological Red-shift measurement](src/3c273_with_reference_lines.jpg){:target="_blank"} session tonight after class!
-- *Mar 16:* Answers to questions about assignment [added to slack](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"} 
-- *Mar 11:* First session [recording](#workshop-zoom-meeting-and-recording-links) is posted
-- *Mar 09:* [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"} ````for all questions and other communications for this seminar````
-- *Mar 06:* [````Usernames````](#click-to-see-user-names-already-available-for-the-spring-2026-class-in-our-google-virtual-machine){:target="_blank"} for registered students added! If you do not see your username email drunarayan@gmail.com
-- [````The Cosmic Perspective````](cosmic_perspective)
+- ***Oct 20:*** [````The Cosmic Perspective````](cosmic_perspective)
 
 ## Goals for the Python for Astronomy (P4A) workshop
 The ````Python for Astronomy (p4b)```` seminar will cover topics in Fundamentals of Astronomy with a significant focus in mathematics, and computing with Python.  The additional goal of this course is to teach critical college and research skills that you will need as a student & professional. We will attempt to develop these skills primarily on Astronomy related topics as you clearly are astro enthusiasts!  The primary audience for this course are Motivated High School, College students, or Early Career professionals. The courses are mostly free of charge other than a small fee for oprational expenses. We also care about accessibility of these resources across student communities who may be underrepresented and of a diverse socio economic background. We hope to keep Telescope & Computing resources free and open for use as much as possible for those students requiring financial assistance.  Please contact me directly at <a href="mailto:drunarayan@gmail.com">drunarayan@gmail.com</a>  if you would like to learn more about this course or in need of special fee waivers.
