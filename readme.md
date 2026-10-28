@@ -2,7 +2,7 @@
 
 ![messier27](m27.png)
 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 25, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 28, 2026*
 
 
 
