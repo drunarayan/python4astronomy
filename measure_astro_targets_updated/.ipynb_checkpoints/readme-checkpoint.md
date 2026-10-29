@@ -1,0 +1,3 @@
+### Measure Astro Targets Project - Pixel Distance - Sky Angles
+[Complete the linked Jupyter Notebook](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fmeasure_astro_targets_updated%2Fmeasure_astro_targets.ipynb?reset"){:target="_blank"}
+

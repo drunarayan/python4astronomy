@@ -99,8 +99,8 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 Project|Topic Description|
 ---|---
 0|<a href="https://drunarayan.github.io/python4astronomy/basics_jupyterlab_notebook" target="_blank"> ```Jupyter First Login``` - Intro to Jupyter Notebooks - PLEASE COMPLETE AHEAD OF SEMINAR START DATE </a>
-1|<a href="https://drunarayan.github.io/python4astronomy/measure_astro_targets" target="_blank">```Eratosthenes``` - Measure diameter of the Earth & Astro targets</a>
-2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">```Tycho Brahe, Kepler, Newton``` - Elliptical Orbits - the most natural way to move</a>
+1|<a href="https://drunarayan.github.io/python4astronomy/measure_astro_targets_updated" target="_blank">```Tycho Brahe``` - Measure diameter of the Earth & Astro targets</a>
+2|<a href="https://drunarayan.github.io/python4astronomy/keplerian_orbits" target="_blank">```Kepler, Newton``` - Elliptical Orbits - the most natural way to move</a>
 3|<a href="https://drunarayan.github.io/python4astronomy/star_magnitudes" target="_blank">```Hipparchus``` - Star Magnitudes and Logarithms - change is everything</a>
 4|<a href="https://drunarayan.github.io/python4astronomy/half_a_mil" target="_blank">```Gaia Query``` - Plot half-a-million stars in Sun's immediate 200-parsec neighborhood</a>
 5|<a href="https://drunarayan.github.io/python4astronomy/cluster_hrd" target="_blank">```Hertzsprung & Russell``` - Diagrams (HRD) of Open Star Clusters - the keystone of Astronomy</a>
