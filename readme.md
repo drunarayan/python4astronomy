@@ -83,9 +83,11 @@ When you do so, it will make your own initial copy to your JupyterHub account an
 
 ## Availability of JupyterLab Virtual Machine (Your Virtual Laptop)
 
-***Your virtual laptops will be online and available Sunday Morning 11:00 AM to Tuesday Evening 11:00 PM Pacific Time each week*** for use in the classroom and for completing your assignments. The google VM is not available at times other than those specified below. 
+***Your virtual laptops will be online and available Sunday Morning 11:00 AM to Tuesday Evening 11:00 PM Pacific Time each week*** for use in the classroom and for completing your assignments. The google VM is not available at times other than those specified below unless you use the On-Demand Start/Stop link (Please be responsible and shut it down once you are finished) Password for this is inside the User Names link .  
 * [START Sun 11:00 AM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-08_11.00_America.Los_Angeles?forget=1){:target="_blank"}
 * [END Thu 11:00 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-12_23.00_America.Los_Angeles?forget=1){:target="_blank"}
+* **On Demand** [Start-Stop Google VM JupyterLab Controller](https://drunarayan.github.io/tms/wake-vm/){:target="_blank"} **Please Stop when complete**  - consult User Names link above
+
 
 ***You will be able to login during these times and complete your assignments ahead of, during and after the web meeting sessions each week.***  At other times, the virtual machine will be taken down to reduce the cost of using the Google Cloud. If you have a special need, you can contact me and I will try and make accommodations.
 
