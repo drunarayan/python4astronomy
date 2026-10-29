@@ -26,6 +26,7 @@ Item|Date|Google Meet Link|Google Recording Link
 
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
+- ***Oct 29***  [````Session recording is posted below````](#seminar-zoom-meeting-links---sessions-are-recorded)
 - ***Oct 28:*** [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0CC753SMCM){:target="_blank"} ````for all questions and other communications for this seminar````
 - ***Oct 28:*** [````Usernames````](#create-your-jupyterlab-login-for-use-later){:target="_blank"} for registered students added! If you do not see your username email drunarayan@gmail.com
 - ***Oct 25:*** [Please register for Fall 2026 session by adding yourself to the waitlist for the Python for Astronomy Seminar](https://boyce-astro.org/python-for-astronomy-sign-up/) ***Class Starts Oct 28th, 2026. 
