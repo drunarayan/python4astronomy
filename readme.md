@@ -13,7 +13,7 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 28, 20
 
 ### Note that this course is a pre-requisite to the Follow-on Intro to Spectroscopy Seminar. If interested, [add yourself to the waitlist for the Spectroscopy Seminar](https://boyce-astro.org/spectroscopy-sign-up/) ***Class Starts Dec 16th, 2026***
 
-### Seminar Zoom Meeting and Recording Links 
+## Seminar Zoom Meeting Links - Sessions are Recorded!
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
