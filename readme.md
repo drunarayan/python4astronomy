@@ -2,7 +2,7 @@
 
 ![messier27](m27.png)
 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 28, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 29, 2026*
 
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
@@ -17,11 +17,11 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 28, 20
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-1|[Oct 28 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-10-28_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
-2|[Nov 4 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-04_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
-3|[Nov 11 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-11_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
-4|[Nov 18 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-18_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
-5|[Nov 25 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-25_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
+1|[Oct 28 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-10-28_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording Posted](https://drive.google.com/file/d/1IWGLDXUmzsnva_DfEPJcLNLCVcwOwmB2/view?usp=sharing)
+2|[Nov 4 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-04_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+3|[Nov 11 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-11_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+4|[Nov 18 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-18_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+5|[Nov 25 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-25_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 6|AS NEEDED [Dec 9 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-12-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 
 
