@@ -17,7 +17,6 @@ taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Oct 29, 20
 
 Item|Date|Google Meet Link|Google Recording Link
 ---|---|---|---
-<<<<<<< Updated upstream
 1|[Oct 28 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-10-28_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording Posted](https://drive.google.com/file/d/1IWGLDXUmzsnva_DfEPJcLNLCVcwOwmB2/view?usp=sharing)
 2|[Nov 4 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-04_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 3|[Nov 11 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-11_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
@@ -30,18 +29,6 @@ Item|Date|Google Meet Link|Google Recording Link
 - ***Oct 29***  [````Session recording is posted below````](#seminar-zoom-meeting-links---sessions-are-recorded)
 - ***Oct 28:*** [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0CC753SMCM){:target="_blank"} ````for all questions and other communications for this seminar````
 - ***Oct 28:*** [````Usernames````](#create-your-jupyterlab-login-for-use-later){:target="_blank"} for registered students added! If you do not see your username email drunarayan@gmail.com
-=======
-1|[Oct 28 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1Vum4R8Mm8hHuTJu7s4rwpZIzu7yBbW8y/view?usp=sharing)
-2|[Nov 4 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1__uGIBeM8ROWY-lUYzItfOB1cPkb50TL/view?usp=sharing)
-3|[Nov 11 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
-4|[Nov 18 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
-5|[Nov 25 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-03-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording TBA]()
-6|AS NEEDED [Dec 9 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-04-13_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
-
-
-### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
-- ***Nov 6::***.[Google Meet Recordings posted for the 1st 2 sessions]()
->>>>>>> Stashed changes
 - ***Oct 25:*** [Please register for Fall 2026 session by adding yourself to the waitlist for the Python for Astronomy Seminar](https://boyce-astro.org/python-for-astronomy-sign-up/) ***Class Starts Oct 28th, 2026. 
 - ***Oct 25:*** Please note that this seminar is the pre-requisite to the BAROSpection - Inro to Spectroscopy seminar starting Dec 16th***. [You may add yourself to the waitlist for that seminar here.](https://boyce-astro.org/spectroscopy-sign-up/)
 - ***Oct 20:*** [````The Cosmic Perspective````](cosmic_perspective)
