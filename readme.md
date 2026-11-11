@@ -2,7 +2,7 @@
 
 ![messier27](m27.png)
 
-taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Nov 9, 2026*
+taught for BRIEF Boyce Astro Foundation by Chandru Narayan - *updated Nov 11, 2026*
 
 *[Please use this website](https://drunarayan.github.io/python4astronomy/) for all details about this seminar. If you have any questions, post them to the [slack channel](https://briefprograms.slack.com/archives/C0AKJ3J08KG){:target="_blank"}.  Please ````use Chrome or other html5 compatible browser. The Safari browser or accessing from a tablet will NOT work````.*
 
@@ -27,7 +27,7 @@ Item|Date|Google Meet Link|Google Recording Link
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
 
--  ***PLEASE NOTE: SKIPPING NOV 11 CLASS. WILL RESUME NOV 18***  
+-  ***Nov 11*** - ***PLEASE NOTE: SKIPPING NOV 11 CLASS. WILL RESUME NOV 18***. Many of you missed the Nov 4th session.  We covered Kepler’s laws and used it to calculate the mass of the central star.  Please do the [***Project #2 homework to catch up during this week***](https://drunarayan.github.io/python4astronomy/#required-minimum-homework-schedule-for-each-project). I have posted the recording of the 2 sessions below.   
 - ***Nov 6***  [````First 2 Session recordings are posted below````](#seminar-zoom-meeting-links---sessions-are-recorded)
 - ***Oct 28:*** [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0CC753SMCM){:target="_blank"} ````for all questions and other communications for this seminar````
 - ***Oct 28:*** [````Usernames````](#create-your-jupyterlab-login-for-use-later){:target="_blank"} for registered students added! If you do not see your username email drunarayan@gmail.com
