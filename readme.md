@@ -20,13 +20,14 @@ Item|Date|Google Meet Link|Google Recording Link
 1|[Oct 28 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-10-28_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording Posted](https://drive.google.com/file/d/1IWGLDXUmzsnva_DfEPJcLNLCVcwOwmB2/view?usp=sharing)
 2|[Nov 4 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-04_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording Posted](https://drive.google.com/file/d/1__uGIBeM8ROWY-lUYzItfOB1cPkb50TL/view?usp=sharing)
 3|*** SKIP CLASS THIS WEEK DUE TO TRAVEL ***|*** NO CLASS THIS WEEK. RESUME NOV 18 ***|---NONE---
-4|[Nov 18 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-18_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
+4|[Nov 18 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-18_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|[Google Meeting Recording](https://drive.google.com/file/d/1U-xh35gf78_NpNHy4532n7QFwgR9zdz9/view?usp=sharing)
 5|[Nov 25 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-11-25_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 6|AS NEEDED [Dec 9 8-9:30 PM Pacific - click to convert for your time zone](https://www.inyourowntime.zone/2026-12-09_20.00_America.Los_Angeles?forget=1){:target="_blank"}|[Google Meet link](https://meet.google.com/hwo-ttfv-smv){:target="_blank"}|Google Meeting Recording TBA
 
 
 ### P4A NEWS - READ THIS SECTION BELOW FOR NEW UPDATES!
 
+- ***Nov 20***  [````Nov 18th recording is posted below. Attendance was very low?````](#seminar-zoom-meeting-links---sessions-are-recorded)
 -  ***Nov 11*** - ***PLEASE NOTE: SKIPPING NOV 11 CLASS. WILL RESUME NOV 18***. Many of you missed the Nov 4th session.  We covered Kepler’s laws and used it to calculate the mass of the central star.  Please do the [***Project #2 homework to catch up during this week***](https://drunarayan.github.io/python4astronomy/#required-minimum-homework-schedule-for-each-project). I have posted the recording of the 2 sessions below.   
 - ***Nov 6***  [````First 2 Session recordings are posted below````](#seminar-zoom-meeting-links---sessions-are-recorded)
 - ***Oct 28:*** [````UPDATED Slack channel````](https://briefprograms.slack.com/archives/C0CC753SMCM){:target="_blank"} ````for all questions and other communications for this seminar````
